@@ -1,0 +1,6 @@
+recall(example-supply, S-17) on 2026-11-03: 2 rows
+  2026-10-30 refund: Refund R-A-1001 requested for A-1001: $15.90.
+  2026-01-10 preference: Prefers email, not phone calls.
+A-0388 in the packed context: no
+R-A-1001 in the packed context: yes
+purge(2026-11-03): 1 row deleted

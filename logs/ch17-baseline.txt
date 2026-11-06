@@ -1,0 +1,9 @@
+Returns desk baseline: 2 weeks, 1280 tickets (synthetic)
+type              per wk   share    mean  median   error  hrs/wk
+wrong_part           115     18%    12.7    12.5   20.4%    24.3
+refund_status        205     32%     5.8     5.7    3.4%    19.8
+damaged               72     11%    16.2    16.3   16.7%    19.4
+return_label         156     24%     6.9     6.9    3.2%    17.9
+policy_question       92     14%     9.6     9.5    8.1%    14.8
+all                  640    100%     9.0     7.7    8.6%    96.2
+mean and median: handle minutes per ticket

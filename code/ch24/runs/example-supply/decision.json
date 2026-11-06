@@ -1,0 +1,41 @@
+{
+  "note": "every rule passed",
+  "rules": [
+    {
+      "kind": "must",
+      "limit": 600,
+      "name": "tickets per group",
+      "pass": true,
+      "value": 639
+    },
+    {
+      "kind": "must",
+      "limit": 1.0,
+      "name": "wrong refund %",
+      "pass": true,
+      "value": 0.47
+    },
+    {
+      "kind": "must",
+      "limit": 3.0,
+      "name": "reopened lift, high",
+      "pass": true,
+      "value": -0.45
+    },
+    {
+      "kind": "core",
+      "limit": -1.0,
+      "name": "minutes lift, high",
+      "pass": true,
+      "value": -1.24
+    },
+    {
+      "kind": "core",
+      "limit": 30.0,
+      "name": "handoff %",
+      "pass": true,
+      "value": 20.66
+    }
+  ],
+  "verdict": "SCALE"
+}

@@ -1,0 +1,138 @@
+{
+ "orders": {
+  "columns": [
+   "order_id",
+   "customer",
+   "email",
+   "total",
+   "delivery_note"
+  ],
+  "rows": [
+   [
+    "C-2001",
+    "Ruth Abebe",
+    "ruth.abebe@mail.test",
+    42.0,
+    ""
+   ],
+   [
+    "C-2002",
+    "Diego Ramos",
+    "diego.ramos@mail.test",
+    18.5,
+    "Ring +1 555 0134 at the gate"
+   ],
+   [
+    "C-2003",
+    "Mei Chen",
+    "mei.chen@mail.test",
+    96.0,
+    ""
+   ],
+   [
+    "C-2004",
+    "Femi Adeyemi",
+    "femi.adeyemi@mail.test",
+    27.0,
+    "Use the back door"
+   ],
+   [
+    "C-2005",
+    "Hana Novak",
+    "hana.novak@mail.test",
+    61.0,
+    "Receipt to accounts@novak.test"
+   ],
+   [
+    "C-2006",
+    "Luis Vega",
+    "luis.vega@mail.test",
+    12.0,
+    ""
+   ]
+  ]
+ },
+ "loyalty": {
+  "columns": [
+   "member",
+   "points",
+   "card"
+  ],
+  "rows": [
+   [
+    "Ruth Abebe",
+    120,
+    "4111 1111 1111 1111"
+   ],
+   [
+    "Mei Chen",
+    45,
+    "5500 0000 0000 0004"
+   ]
+  ]
+ },
+ "products": {
+  "columns": [
+   "sku",
+   "title",
+   "price"
+  ],
+  "rows": [
+   [
+    "CH-10",
+    "Claw hammer",
+    19.0
+   ],
+   [
+    "CH-11",
+    "Wood screws, box of 200",
+    6.0
+   ],
+   [
+    "CH-12",
+    "Cordless drill",
+    89.0
+   ]
+  ]
+ },
+ "tickets": {
+  "columns": [
+   "ticket_id",
+   "order_id",
+   "opened",
+   "body"
+  ],
+  "rows": [
+   [
+    "K-501",
+    "C-2001",
+    "2026-10-12",
+    "Hammer head is loose."
+   ],
+   [
+    "K-502",
+    "C-2002",
+    "2026-10-13",
+    "Text me on +1 555 0187 when the refund is done."
+   ],
+   [
+    "K-503",
+    "C-2003",
+    "2026-10-14",
+    "Drill box was empty."
+   ],
+   [
+    "K-504",
+    "C-2005",
+    "2026-10-16",
+    "Send the label to hana.n@work.test please."
+   ],
+   [
+    "K-505",
+    "C-2006",
+    "2026-10-18",
+    "Wrong screw size."
+   ]
+  ]
+ }
+}

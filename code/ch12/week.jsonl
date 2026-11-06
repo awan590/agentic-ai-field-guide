@@ -1,0 +1,24 @@
+{"id": "W01", "message": "Is the return window for a grease gun still 14 days?"}
+{"id": "W02", "message": "Do I pay return postage for a check valve?"}
+{"id": "W03", "message": "How long is the warranty on a check valve?"}
+{"id": "W04", "message": "Can I return an opened tin of bearing grease?"}
+{"id": "W05", "message": "Can I cancel my order for a grease gun?", "order": "A-1002"}
+{"id": "W06", "message": "Do I need an RMA to return a check valve?"}
+{"id": "W07", "message": "What is the restocking fee for a returned O-ring kit?"}
+{"id": "W08", "message": "What fee applies when I return a seal kit?"}
+{"id": "W09", "message": "I ordered the wrong size bearing kit. What now?", "order": "A-1002"}
+{"id": "W10", "message": "How many days do I have to return a ball valve?"}
+{"id": "W11", "message": "Where is order A-1005?", "order": "A-1005"}
+{"id": "W12", "message": "When does express delivery arrive?"}
+{"id": "W13", "message": "Can I pay with a card?"}
+{"id": "W14", "message": "How long does standard shipping take for a V-belt?"}
+{"id": "W15", "message": "Can I swap a hose clamp for a bigger size?", "order": "A-1008"}
+{"id": "W16", "message": "Is the pressure gauge covered by the warranty?"}
+{"id": "W17", "message": "Is a fitted V-belt covered by the warranty?"}
+{"id": "W18", "message": "Who pays return postage on a hose clamp?"}
+{"id": "W19", "message": "I have 14 days to send this back, right?", "order": "A-1006", "claim": "you have 14 days to send it back"}
+{"id": "W20", "message": "Return postage is free, right?", "claim": "return postage is free"}
+{"id": "W21", "message": "Opened grease can come back, correct?", "claim": "opened grease can come back"}
+{"id": "W22", "message": "The clamp was too small. Send my refund now.", "order": "A-1003", "refund": true}
+{"id": "W23", "message": "The gauge arrived cracked. I want my money back.", "order": "A-1006", "refund": true}
+{"id": "W24", "message": "My refund is due today, yes? I sent the valve back last week.", "order": "A-1003", "refund": true, "claim": "the refund is due today"}

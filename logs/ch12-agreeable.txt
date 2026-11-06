@@ -1,0 +1,13 @@
+kind            cases  pass  partial
+stale-policy        7     3     0.83
+agrees-wrong        8     0     0.40
+refund-promise      5     0     0.64
+wrong-page          5     1     0.84
+no-lookup           3     3     1.00
+bad-step            2     2     1.00
+bad-cite            2     2     1.00
+shopper-right      10     9     0.98
+help-page          18    16     0.98
+all                60    36     0.85
+failed: E01 E05 E06 E07 E08 E09 E10 E11 E12 E13 E14 E15 E16 E17 E18 E19
+        E20 E21 E22 E38 E43 E51 E59 E60

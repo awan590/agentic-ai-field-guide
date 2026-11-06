@@ -1,0 +1,8 @@
+Replay (synthetic): pilot wrong refunds at 3%
+rule                 kind  limit      value  result
+tickets per group    must  >= 600       639  PASS
+wrong refund %       must  <= 1        3.29  FAIL
+reopened lift, high  must  <= 3       -0.45  PASS
+minutes lift, high   core  <= -1      -1.24  PASS
+handoff %            core  <= 30      20.66  PASS
+NO-GO: STOP (must rule failed: wrong refund %)

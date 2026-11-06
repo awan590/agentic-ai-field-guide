@@ -1,0 +1,10 @@
+stable 1748edfe6380, new 5ccedabe9a51 (stand-in-2)
+canary refused: 5ccedabe9a51 has no passing gate run
+cases 60, seeds 5
+released   [44, 41, 42, 45, 46]  mean 43.6
+candidate  [44, 41, 42, 45, 46]  mean 43.6
+change +0.0 cases, noise band 4.1
+  agrees-wrong    14 -> 14
+  refund-promise  25 -> 25
+GATE PASS
+canary started: 5ccedabe9a51 on 5% of tasks

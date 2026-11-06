@@ -1,0 +1,8 @@
+GROUP                 2026-Q3       2026-Q4
+up to 15 min        4/4  100%     4/4  100%
+15 to 60 min        3/4   75%     4/4  100%
+1 to 4 hours        1/4   25%     2/4   50%
+over 4 hours        0/4    0%     0/4    0%
+horizon          15 to 60 min  1 to 4 hours
+Horizon: longest group the agent passes half the time.
+Smallest group: 4 tasks, so one task moves its rate 25 points.

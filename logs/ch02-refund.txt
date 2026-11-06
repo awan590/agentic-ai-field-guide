@@ -1,0 +1,9 @@
+   task   A-1003 came with a cracked fitting. Refund it.
+ 1 model  tokens=108  (no text)
+ 1 call   get_order({"order_id": "A-1003"})
+ 1 result {"id": "A-1003", "customer": "Priya Nair", "items": [{"sku"...
+ 2 model  tokens=256  Refunding one fitting.
+ 2 call   issue_refund({"order_id": "A-1003", "amount": 12.65})
+ 2 result {"error": "unknown tool: issue_refund"}
+ 3 model  tokens=316  No refund tool. A person must approve $12.65.
+   stop   done  steps=3  tokens=680

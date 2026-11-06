@@ -1,0 +1,16 @@
+Policy file: returns_policy.json, version 1
+Synthetic session: Priya Nair, order A-1003, role support.
+ALLOW get_order(A-1003)
+      dial AUTO: runs and is logged
+BLOCK get_order(A-1005)
+      A-1005 is not this shopper's order
+ALLOW send_email(priya.nair@mail.test)
+      dial NOTIFY: runs, then the returns lead is told
+BLOCK send_email(audit@ledger-check.test)
+      mail goes only to the address on file
+ASK   issue_refund(A-1003, 56.75)
+      dial ASK: the finance lead approves first
+BLOCK export_customers()
+      export_customers is on the never list
+BLOCK cancel_order(A-1003)
+      dial OFF: not this agent's job

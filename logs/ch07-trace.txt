@@ -1,0 +1,12 @@
+question 3: can i return grease if the tin is open
+answer: returns#2 holds "opened tins of bearing grease"
+  query word  chunks with it  word in chunk  stem in chunk
+  return                   6  no             no
+  grease                   8  yes            yes
+  tin                      1  no             no
+  open                     2  no             yes
+  search           rank  first chunk
+  keyword            14  gr-400#1    Bearing grease, 400 g
+  vector             14  gr-100#1    Bearing grease, 100 g
+  hybrid             12  privacy#3   open.
+  hybrid + rerank     2  gr-400#1    Bearing grease, 400 g

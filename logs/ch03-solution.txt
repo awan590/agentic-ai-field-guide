@@ -1,0 +1,7 @@
+200 synthetic tasks, stand-in models, prices as of 2026-11-03
+rule          to small   accuracy   $ per 1,000 tasks
+all large           0      97.5%               3.26
+route()           125      94.5%               1.53
+route_safe()      100      97.0%               1.99
+route()        cost cut 53.0%  accuracy lost 3.0 points  FAIL
+route_safe()   cost cut 39.0%  accuracy lost 0.5 points  PASS

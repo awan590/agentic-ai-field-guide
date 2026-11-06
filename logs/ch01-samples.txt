@@ -1,0 +1,18 @@
+Conference demo, refund agent: 1/14 checks pass
+  HIGH data       Has written approval for that data
+  HIGH tools      Each write is approved or reversible
+  HIGH security   Tested against prompt injection
+  plus 10 more gaps
+  verdict: stop: close every HIGH gap before real users
+
+Two-week pilot, order agent: 8/14 checks pass
+  HIGH security   Tested against prompt injection
+  HIGH security   Each tool has only the access it needs
+  MED  operations Named owner and a rollback plan
+  plus 3 more gaps
+  verdict: stop: close every HIGH gap before real users
+
+Week 12, order agent: 12/14 checks pass
+  LOW  evals      Beats a measured baseline
+  LOW  people     Users know what it cannot do
+  verdict: ready for a go-live review

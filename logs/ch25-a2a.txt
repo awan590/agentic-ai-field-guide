@@ -1,0 +1,10 @@
+card: returns-agent 0.25, skills start_return
+-> t-001 send start_return
+<- t-001 input-required: Which order number?
+-> t-001 reply order A-1001
+<- t-001 completed: label RL-A-1001
+-> t-002 send issue_refund
+<- t-002 rejected: no such skill on this card
+t-001: submitted > working > input-required > working > completed
+t-002: submitted > rejected
+8 messages on the wire, each one JSON text.

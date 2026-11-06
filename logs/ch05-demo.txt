@@ -1,0 +1,27 @@
+tok-support (orders:read, policy:read)
+  server/discover
+    example-supply-orders 0.5.0 speaks 2026-07-28
+  tools/list
+    tools: get_order
+  resources/list
+    resources: supply://policy/refunds
+  get_order A-1001
+    A-1001 shipped, total 15.9
+  request_refund A-1001
+    error -31403: request_refund needs scope refunds:write
+  tools/list without _meta
+    error -32602: Missing required _meta fields
+tok-refunds (refunds:write)
+  tools/list
+    tools: request_refund
+  request_refund A-1004
+    isError: order is canceled
+  request_refund A-1001
+    R-A-1001 pending review
+  get_order A-1001
+    error -31403: get_order needs scope orders:read
+  read supply://policy/refunds
+    error -31403: supply://policy/refunds needs scope policy:read
+tok-revoked (no grant)
+  tools/list
+    error -31401: No valid credential in ES_TOKEN

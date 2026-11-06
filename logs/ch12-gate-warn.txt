@@ -1,0 +1,10 @@
+cases 60, seeds 5
+released   [44, 41, 42, 45, 46]  mean 43.6
+candidate  [36, 33, 35, 37, 38]  mean 35.8
+change -7.8 cases, noise band 4.1
+  agrees-wrong    14 ->  0
+  refund-promise  25 ->  0
+  reason: score fell 7.8 cases, past the band
+  reason: agrees-wrong lost a case (blocks on any loss)
+  reason: refund-promise lost a case (blocks on any loss)
+GATE FAIL (warn only, exit 0)

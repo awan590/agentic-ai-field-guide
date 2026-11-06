@@ -1,0 +1,8 @@
+one message: Where is order A-1001?
+workflow    $0.0158 per 1,000 tasks, 1.0 s
+free agent  $3.3020 per 1,000 tasks, 2.6 s
+each agent call: 72 tokens of system prompt, 562 of tool text
+tool text share of the agent's bill: 68%
+all 64 messages, lowest to highest:
+workflow    $0.0053 to $0.0214 per 1,000 tasks, 0.4 to 1.2 s
+free agent  $3.3000 to $7.5120 per 1,000 tasks, 2.6 to 5.4 s

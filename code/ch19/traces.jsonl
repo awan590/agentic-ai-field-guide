@@ -1,0 +1,14 @@
+{"id": "r01", "kind": "content", "day": "2026-10-28", "shopper": "S-11"}
+{"id": "r02", "kind": "content", "day": "2026-09-20", "shopper": "S-12"}
+{"id": "r03", "kind": "trace", "day": "2026-10-01", "shopper": "S-12"}
+{"id": "r04", "kind": "trace", "day": "2026-07-15", "shopper": "S-14"}
+{"id": "r05", "kind": "eval", "day": "2026-03-02", "shopper": "S-11"}
+{"id": "r06", "kind": "eval", "day": "2025-08-10", "shopper": "S-15"}
+{"id": "r07", "kind": "incident", "day": "2025-06-02", "shopper": "S-16"}
+{"id": "r08", "kind": "incident", "day": "2024-09-30", "shopper": "S-16", "hold": true}
+{"id": "r09", "kind": "content", "day": "2026-11-01", "shopper": "S-23"}
+{"id": "r10", "kind": "trace", "day": "2026-10-20", "shopper": "S-23"}
+{"id": "r11", "kind": "trace", "day": "2026-10-30", "shopper": "S-14"}
+{"id": "r12", "kind": "content", "day": "2026-08-01", "shopper": "S-15"}
+{"id": "r13", "kind": "debug", "day": "2026-11-02", "shopper": "S-12"}
+{"id": "r14", "kind": "trace", "day": "2026-08-06", "shopper": "S-11"}

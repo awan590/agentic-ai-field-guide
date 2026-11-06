@@ -1,0 +1,31 @@
+Returns agent model (synthetic, as of 2026-11-04)
+inputs changed: error_scale=2
+tickets a month 2,773 (ch17 baseline, 640 a week)
+handle minutes: person 9.01, agent 7.44 (ch20 control and pilot)
+model cost a task $0.0042 (ch03 prices, claude-sonnet-5-5)
+
+cost per task       person    agent
+handle time          $5.71    $4.71
+review sample        $0.00    $0.10
+repeat contacts      $0.53    $0.56
+wrong refunds        $0.28    $0.42
+model                $0.00    $0.00
+total                $6.52    $5.79
+saving per task               $0.73
+
+build $16,640, run $1,150 a month
+month  share    saving  cumulative
+    1    50%    $1,014    -$16,776
+    2    80%    $1,622    -$16,305
+    3   100%    $2,027    -$15,428
+    4   100%    $2,027    -$14,550
+    5   100%    $2,027    -$13,673
+    6   100%    $2,027    -$12,796
+    7   100%    $2,027    -$11,919
+    8   100%    $2,027    -$11,042
+    9   100%    $2,027    -$10,165
+   10   100%    $2,027     -$9,287
+   11   100%    $2,027     -$8,410
+   12   100%    $2,027     -$7,533
+break-even: month 21
+net after 24 months: $2,993

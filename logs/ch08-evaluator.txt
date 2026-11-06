@@ -1,0 +1,4 @@
+== evaluator
+final: Sorry, A-1003 came cracked. A person will approve a refund.
+rounds: 2, passed: True
+calls 4  tokens 127  2.46 s (2.46 s one by one)  $0.031 per 1,000

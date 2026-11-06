@@ -1,0 +1,12 @@
+60 cases, seed 0, cost in example weights
+responder                  pass  partial  cost
+hand off every case           0     0.52    60
+  rule-missing 60
+top search hit, cited        27     0.84    41
+  wrong-rule 4, rule-missing 17, check-missed 12
+agent, released prompt       44     0.93    24
+  wrong-rule 4, rule-missing 12
+agent, agreeable prompt      36     0.85   105
+  refund-promise 5, agrees-wrong 8, wrong-rule 2, rule-missing 9
+weight of a failed case's worst mistake: refund-promise 10, agrees-wrong
+5, wrong-rule 3, rule-missing 1, check-missed 1

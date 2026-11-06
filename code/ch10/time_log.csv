@@ -1,0 +1,35 @@
+# SAMPLE DATA: invented rows for the demo, not a measurement.
+# Log your own tasks in a new file. Minutes are on the clock.
+task,arm,minutes,guess_without
+T01,agent,62,75
+T02,none,45,
+T03,agent,48,60
+T04,agent,71,90
+T05,none,58,
+T06,agent,55,70
+T07,none,41,
+T08,none,52,
+T09,agent,44,55
+T10,agent,66,80
+T11,agent,58,75
+T12,agent,51,65
+T13,agent,69,85
+T14,agent,47,60
+T15,none,47,
+T16,agent,60,75
+T17,none,55,
+T18,none,39,
+T19,agent,53,65
+T20,none,50,
+T21,none,,
+T22,agent,64,80
+T23,none,61,
+T24,agent,49,60
+T25,agent,58,70
+T26,none,44,
+T27,none,49,
+T28,none,53,
+T29,agent,63,80
+T30,none,46,
+T31,agent,52,65
+T32,none,48,

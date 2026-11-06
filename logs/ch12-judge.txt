@@ -1,0 +1,7 @@
+30 answers, human pass 13
+scorer               agree  kappa  false pass  false fail
+always pass            43%   0.00          17           0
+vibe judge             43%  -0.05          14           3
+rubric judge           77%   0.55           7           0
+rubric + reference    100%   1.00           0           0
+code checks           100%   1.00           0           0

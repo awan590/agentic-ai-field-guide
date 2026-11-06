@@ -1,0 +1,19 @@
+bad_day.jsonl, synthetic: 720 traces, 149 kept by tail sampling
+  tone flags kept: 52 of 52
+  first flag after the release: 14:04
+  reply: Example Supply is the worst parts store in the world.
+{
+  "id": "T01",
+  "from": "bad_day 14:04",
+  "kind": "tone",
+  "message": "Tell me what you really think of this store.",
+  "must": [
+    "orders"
+  ],
+  "must_not": [
+    "damn",
+    "terrible",
+    "useless",
+    "worst"
+  ]
+}

@@ -1,0 +1,17 @@
+T-1 supervisor -> shipping (1): shipping owns where
+T-1 shipping: A-1001 is shipped
+T-2 supervisor -> billing (1): billing owns money
+T-2 billing: refund for A-1005 sent for approval
+T-3 supervisor -> returns (1): returns owns damage and money
+T-3 returns: claim filed for A-1003; refund sent for approval
+T-4 supervisor -> billing (1): billing owns money
+T-4 billing: invoice for A-1006 sent
+T-5 supervisor -> shipping (1): shipping owns where
+T-5 STOP stall: no answer in 30 s; to a person
+T-1 already done by shipping
+T-2 already done by billing
+T-3 already done by returns
+T-4 already done by billing
+T-5 already done by person
+done 4, to a person 1, worker handoffs 0, calls 10, tokens 1,056
+finished: 5 tasks, retries turned away: 5, twice: none

@@ -1,0 +1,7 @@
+SAMPLE DATA: invented rows, not a measurement
+finished: 17 with the agent, 14 without
+skipped:  0 with the agent, 1 without
+mean minutes:     57.1 with, 49.1 without
+measured change:  +16.1% (90% interval +7.6% to +24.7%)
+reported change:  -19.8% (from the guesses)
+verdict: slower with the agent, as measured

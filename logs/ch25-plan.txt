@@ -1,0 +1,25 @@
+# 12-month skills plan, radar fde-radar-2026-q4, on 2026-11-04
+
+## Q1
+Skill: Pin the MCP version in each server
+Radar: mcp-tools (use)
+Proof: one eval case per release, logged
+Review: 2027-02-02
+
+## Q2
+Skill: Map duties by region with counsel
+Radar: eu-ai-act (use)
+Proof: one eval case per release, logged
+Review: 2027-05-03
+
+## Q3
+Skill: Review what the agent writes to memory
+Radar: agent-memory (try)
+Proof: a trial behind the eval gate, with its log
+Review: 2027-08-01
+
+## Q4
+Skill: Swap one model behind the eval gate
+Radar: small-models (try)
+Proof: a trial behind the eval gate, with its log
+Review: 2027-10-30

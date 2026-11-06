@@ -1,0 +1,10 @@
+DM-01 ok test_ch19.DataMapTest.test_every_personal_column_is_listed
+DM-02 ok ch19/tables.py
+DM-03 ok test_ch19.DataMapTest.test_masked_column_leaves_clean
+AC-01 ok test_ch13.PolicyTest.test_rules
+AC-02 ok test_ch06.MemoryTest.test_tenants_do_not_share_a_shopper_id
+LG-01 ok test_ch14.TracingTest.test_content_is_off_by_default
+RT-01 ok test_ch19.RetentionTest.test_rules_by_age
+RT-02 ok test_ch19.RetentionTest.test_forget_request_drops_one_shopper
+OP-01 ok test_ch15.BudgetTest.test_kill_switch_stops_the_next_tool_call
+9 answers: 9 linked, 0 missing

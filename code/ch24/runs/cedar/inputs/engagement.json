@@ -1,0 +1,87 @@
+{
+  "as_of": "2026-11-04",
+  "synthetic": true,
+  "note": "One engagement, one folder. Every name and number is invented. Copy the folder for a new customer, replace the exports, and edit this file.",
+  "customer": "Cedar Hardware Co.",
+  "short": "Cedar Hardware",
+  "discovery": {
+    "weeks_min": 2,
+    "tickets_min": 500
+  },
+  "data": {
+    "reaches": {
+      "orders": "vendor",
+      "loyalty": "store",
+      "products": "vendor",
+      "tickets": "vendor"
+    },
+    "masked": [
+      "orders.email",
+      "orders.delivery_note",
+      "tickets.body"
+    ]
+  },
+  "profile": {
+    "agent": "returns-helper",
+    "customer": "Cedar Hardware Co. (invented)",
+    "job": "Drafts replies to shoppers about returns; a person approves every refund.",
+    "tier": "transparency",
+    "regions": [
+      "UK",
+      "US",
+      "US-CO"
+    ],
+    "roles": {
+      "provider": "IT manager",
+      "deployer": "returns desk lead",
+      "controller": "office manager",
+      "any": "head of stores"
+    }
+  },
+  "business": {
+    "break_even_max": 12
+  },
+  "owners": [
+    [
+      "answers to shoppers",
+      "head of stores",
+      "returns desk lead"
+    ],
+    [
+      "alerts and on-call",
+      "IT manager",
+      "IT technician"
+    ],
+    [
+      "rollback",
+      "IT manager",
+      "IT technician"
+    ],
+    [
+      "kill switch",
+      "returns desk lead",
+      "head of stores"
+    ],
+    [
+      "eval gate",
+      "IT technician",
+      "IT manager"
+    ],
+    [
+      "data map",
+      "office manager",
+      "IT manager"
+    ],
+    [
+      "adoption numbers",
+      "returns desk lead",
+      "head of stores"
+    ]
+  ],
+  "contacts": {
+    "L1": "the returns desk, in shop hours.",
+    "L2": "the IT manager, in shop hours; the IT technician covers weekends.",
+    "L3": "the FDE until the end of hypercare in week 4, then the IT manager."
+  },
+  "rehearsal": "Week 0 of go-live (synthetic): the IT manager rolled back on staging and ran the smoke test."
+}

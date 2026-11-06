@@ -1,0 +1,9 @@
+baseline tone share (normal day): 0.28%
+normal_day: 0 alerts fire
+bad_day: 4 alerts fire
+  14:50  page   tone drift     13.3%
+  18:20  ticket handoff drift  26.7%
+  18:30  page   tone drift     13.3%
+  24:00  ticket handoff drift  20.0%
+mark 14:00  release with a new prompt (synthetic)
+mark 18:00  a shopper posts screenshots (synthetic)

@@ -1,0 +1,6 @@
+PASS  health        200 worker alive
+PASS  version       200 stable 1748edfe6380
+PASS  task          T-0001 done in 2 steps
+PASS  unknown_route 404 on GET /nothing-here
+PASS  bad_request   400 on no message, then health 200
+5 of 5 checks passed

@@ -1,0 +1,59 @@
+{
+  "all": {
+    "error": 7.8,
+    "hours": 70.0,
+    "mean": 8.9,
+    "median": 8.8,
+    "per_week": 470,
+    "share": 100,
+    "tickets": 940
+  },
+  "types": {
+    "damaged": {
+      "error": 8.7,
+      "hours": 12.3,
+      "mean": 12.8,
+      "median": 12.5,
+      "per_week": 58,
+      "share": 12,
+      "tickets": 115
+    },
+    "policy_question": {
+      "error": 11.6,
+      "hours": 6.5,
+      "mean": 9.0,
+      "median": 9.1,
+      "per_week": 43,
+      "share": 9,
+      "tickets": 86
+    },
+    "refund_status": {
+      "error": 7.0,
+      "hours": 15.0,
+      "mean": 7.0,
+      "median": 6.7,
+      "per_week": 128,
+      "share": 27,
+      "tickets": 257
+    },
+    "return_label": {
+      "error": 8.0,
+      "hours": 17.5,
+      "mean": 7.7,
+      "median": 7.5,
+      "per_week": 137,
+      "share": 29,
+      "tickets": 274
+    },
+    "wrong_size": {
+      "error": 6.2,
+      "hours": 18.7,
+      "mean": 10.8,
+      "median": 10.8,
+      "per_week": 104,
+      "share": 22,
+      "tickets": 208
+    }
+  },
+  "weeks": 2
+}

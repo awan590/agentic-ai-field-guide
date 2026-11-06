@@ -1,0 +1,16 @@
+Synthetic limits, not any real menu or catalog.
+OK      drive taco=3, large drink=2  (5 units)
+REJECT  drive water cup=18000
+        water cup: 18,000 is over the limit of 10 per line
+        fix: Read the order back, or hand off to a person.
+REJECT  drive taco=0, water cup=two
+        taco: 0 is not a whole number from 1 up
+        water cup: 'two' is not a whole number from 1 up
+        fix: Read the order back, or hand off to a person.
+REJECT  drive taco=20, burrito=20, water cup=4
+        44 units is over the limit of 40 per order
+        fix: Read the order back, or hand off to a person.
+OK      parts CT-100=10, HC-038=2  (12 units)
+REJECT  parts CT-100=1000
+        CT-100: 1,000 is over the limit of 50 per line
+        fix: Read the order back, or hand off to a person.

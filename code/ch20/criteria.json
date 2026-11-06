@@ -1,0 +1,19 @@
+{
+  "pilot": "returns desk: the agent drafts, a person approves refunds",
+  "split": "50% of tickets by a hash of the ticket id",
+  "weeks": ["week1", "week2"],
+  "rules": [
+    {"name": "tickets per group", "kind": "must",
+     "metric": "tickets", "test": "count_at_least", "limit": 600},
+    {"name": "wrong refund %", "kind": "must",
+     "metric": "wrong_refund", "test": "pilot_at_most", "limit": 1.0},
+    {"name": "reopened lift, high", "kind": "must",
+     "metric": "reopened", "test": "upper_at_most", "limit": 3.0},
+    {"name": "minutes lift, high", "kind": "core",
+     "metric": "minutes", "test": "upper_at_most", "limit": -1.0,
+     "fix": "shorten the draft, run two more weeks"},
+    {"name": "handoff %", "kind": "core",
+     "metric": "handoff", "test": "pilot_at_most", "limit": 30.0,
+     "fix": "add the damaged-item photo check, run two more weeks"}
+  ]
+}

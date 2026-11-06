@@ -1,0 +1,17 @@
+   task   I have 14 days to send this back, correct?
+ 1 model  tokens=83  Looking that up.
+ 1 call   get_order({"order_id": "A-1006"})
+ 1 result {"id": "A-1006", "customer": "Kenji Sato", "items": [{"sku"...
+ 1 call   search_policy({"query": "I have 14 days to send this back, ...
+ 1 result {"results": [{"id": "returns-2024#1", "text": "Returns poli...
+ 2 model  tokens=488  Order A-1006 is delivered. Sorry, that is not q...
+   stop   done  steps=2  tokens=571
+   Order A-1006 is delivered. Sorry, that is not quite how it works.
+   Until January 2025, items could be sent back within 14 days of
+   delivery, and a 20 percent restocking fee applied to every return
+   [returns-2024#1]. Next step: reply here and a person will help.
+   check  rule     NO
+   check  no_wrong NO
+   check  cited    yes
+   check  lookup   yes
+   check  stopped  yes

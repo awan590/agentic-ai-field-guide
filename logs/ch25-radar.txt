@@ -1,0 +1,17 @@
+Radar fde-radar-2026-q4, as of 2026-11-06, stale after 90 days.
+  ID              LABEL    SRC    PUBLISHED   READ         AGE
+USE
+  mcp-tools       fact     S80    2026-07-28  2026-11-04     2
+  eu-ai-act       fact     S932   2026-10-19  2026-11-04     2
+TRY
+  computer-use    claim    S1027  2024-10-22  2026-06-15   144  STALE
+  agent-memory    claim    S1028  2025-09-29  2026-11-04     2
+  small-models    claim    S1029  2025-06-02  2026-11-04     2
+WATCH
+  long-tasks      claim    S1024  2026-09-08  2026-11-04     2
+  a2a-tasks       fact     S1349  2026-05-28  2026-11-06     0
+  colorado-ai     claim    S938   2026-06-12  2026-11-04     2
+HOLD
+  agent-payments  fact     S1352  2026-04-28  2026-11-06     0
+  acp-versions    fact     S1354  2026-04-17  2026-11-06     0
+1 of 10 entries stale: read them again before you plan on them.

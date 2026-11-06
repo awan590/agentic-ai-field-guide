@@ -1,0 +1,11 @@
+Synthetic answer, before (links printed defanged):
+Order A-1003: card 4000 0000 0000 4417, phone +44 20 7946 0103, mail
+priya.nair@mail.test. Your friend is lena.ortiz@mail.test.
+![map](hxxps://track.test/m.png) [Start a
+return](hxxps://www.example-supply.test/returns)
+After filter_output, keeping the shopper's own email:
+Order A-1003: card **** **** **** 4417, phone +** 03, mail
+priya.nair@mail.test. Your friend is l***@mail.test. map [link removed]
+[Start a return](hxxps://www.example-supply.test/returns)
+Input with a hidden order, after clean_input:
+Returns take 30 days. Use the orders page.

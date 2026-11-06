@@ -1,0 +1,4 @@
+Replay (synthetic): the chatbot owns its answers
+- owners.md: answers to shoppers: outside owner 'the chatbot'
+- owners.md: answers to shoppers: no backup
+HANDOVER INCOMPLETE: 2 problems

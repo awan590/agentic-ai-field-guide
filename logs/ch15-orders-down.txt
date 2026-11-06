@@ -1,0 +1,9 @@
+t= 0 closed    person      record: orders: unreachable (injected)
+t=10 closed    person      record: orders: unreachable (injected)
+t=20 open      person      record: orders: unreachable (injected)
+t=30 open      person      record: orders breaker open
+t=40 open      person      record: orders breaker open
+t=50 closed    main model  A-1002 is processing (main model).
+breaker at t=20: closed -> open
+breaker at t=50: open -> half-open
+breaker at t=50: half-open -> closed

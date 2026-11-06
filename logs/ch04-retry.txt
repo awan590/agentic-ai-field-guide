@@ -1,0 +1,12 @@
+no key:   3 tries, 3 payouts, 37.95 paid
+with key: 3 tries, 1 payout,  12.65 paid
+
+  2.00s  issue_refund try 1: no reply in 2.0s
+  2.00s  issue_refund wait 0.32s (random, up to 1.00s)
+  4.32s  issue_refund try 2: no reply in 2.0s
+  4.32s  issue_refund wait 0.30s (random, up to 2.00s)
+  4.93s  issue_refund try 3: ok
+refunded: 12.65
+order_id: A-1003
+reason: damaged
+payout_id: PO-001

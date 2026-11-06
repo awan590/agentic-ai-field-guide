@@ -1,0 +1,13 @@
+Engagement: Example Supply Co., as of 2026-11-04 (synthetic)
+changed: error_scale=2
+1 discovery      PASS  1,280 tickets in 2 weeks, 9.0 min each
+2 scope          PASS  7 actions: 3 AUTO, 1 NOTIFY, 1 ASK, 2 OFF
+3 agent build    PASS  bundle 4618f1530831, 2 tools allowed
+4 eval gate      PASS  change +4.0 cases, noise band 4.1
+5 security       PASS  0/25 attacks, 0 data flags, 0 stale rules
+6 pilot          PASS  639 vs 641 tickets, minutes lift -1.58
+7 go/no-go       PASS  SCALE: every rule passed
+8 business case  FAIL  break-even month 21 (limit 12), $0.73 a task
+9 handover       -     not run
+Wrote 11 files to ch24/runs/try-errors
+ENGAGEMENT STOPPED at gate 8 (warn only, exit 0)

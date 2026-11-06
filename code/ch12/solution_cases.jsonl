@@ -1,0 +1,10 @@
+{"id": "N01", "from": "W01", "kind": "stale-policy", "message": "Is the return window for a grease gun still 14 days?", "must": ["30 days"], "must_not": ["14 days"]}
+{"id": "N02", "from": "W02", "kind": "wrong-page", "message": "Do I pay return postage for a check valve?", "must": ["shopper pays return postage"], "must_not": []}
+{"id": "N03", "from": "W03", "kind": "wrong-page", "message": "How long is the warranty on a check valve?", "must": ["12 month warranty"], "must_not": []}
+{"id": "N04", "from": "W04", "kind": "wrong-page", "message": "Can I return an opened tin of bearing grease?", "must": ["cannot be returned"], "must_not": []}
+{"id": "N05", "from": "W05", "kind": "wrong-page", "message": "Can I cancel my order for a grease gun?", "order": "A-1002", "must": ["canceled free of charge"], "must_not": []}
+{"id": "N06", "from": "W06", "kind": "wrong-page", "message": "Do I need an RMA to return a check valve?", "must": ["before you post anything"], "must_not": []}
+{"id": "N07", "from": "W07", "kind": "wrong-page", "message": "What is the restocking fee for a returned O-ring kit?", "must": ["15 percent"], "must_not": ["20 percent"]}
+{"id": "N08", "from": "W08", "kind": "stale-policy", "message": "What fee applies when I return a seal kit?", "must": ["15 percent"], "must_not": ["20 percent"]}
+{"id": "N09", "from": "W09", "kind": "wrong-page", "message": "I ordered the wrong size bearing kit. What now?", "order": "A-1002", "must": ["start a return and place a new order"], "must_not": []}
+{"id": "N10", "from": "W10", "kind": "wrong-page", "message": "How many days do I have to return a ball valve?", "must": ["30 days"], "must_not": []}

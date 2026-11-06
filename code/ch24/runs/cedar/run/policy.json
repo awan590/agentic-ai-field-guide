@@ -1,0 +1,60 @@
+{
+  "actions": {
+    "cancel_order": {
+      "owner": "orders team",
+      "setting": "OFF",
+      "tier": 2,
+      "verdict": "BLOCK",
+      "why": "dial OFF: not this agent's job"
+    },
+    "export_customers": {
+      "owner": "data owner",
+      "setting": "OFF",
+      "tier": 3,
+      "verdict": "BLOCK",
+      "why": "dial OFF: not this agent's job"
+    },
+    "get_order": {
+      "owner": "returns lead",
+      "setting": "AUTO",
+      "tier": 1,
+      "verdict": "ALLOW",
+      "why": "dial AUTO: runs and is logged"
+    },
+    "issue_refund": {
+      "owner": "finance lead",
+      "setting": "ASK",
+      "tier": 3,
+      "verdict": "ASK",
+      "why": "dial ASK: the finance lead approves first"
+    },
+    "read_message": {
+      "owner": "returns lead",
+      "setting": "AUTO",
+      "tier": 1,
+      "verdict": "ALLOW",
+      "why": "dial AUTO: runs and is logged"
+    },
+    "search_policy": {
+      "owner": "returns lead",
+      "setting": "AUTO",
+      "tier": 1,
+      "verdict": "ALLOW",
+      "why": "dial AUTO: runs and is logged"
+    },
+    "send_email": {
+      "owner": "returns lead",
+      "setting": "NOTIFY",
+      "tier": 2,
+      "verdict": "ALLOW",
+      "why": "dial NOTIFY: runs, then the returns lead is told"
+    }
+  },
+  "agent": "returns",
+  "never": [
+    "change_price",
+    "delete_order",
+    "export_customers"
+  ],
+  "version": 1
+}

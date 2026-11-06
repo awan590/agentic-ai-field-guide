@@ -1,0 +1,18 @@
+Handover pack: ch21/sample_pack
+part       file          result
+index      README.md     1 problem
+runbook    runbook.md    1 problem
+owners     owners.md     2 problems
+rollback   rollback.md   file missing
+eval gate  evals.md      ok
+alerts     alerts.md     1 problem
+data map   data-map.md   ok
+contacts   contacts.md   1 problem
+- owners.md: answers to shoppers: no owner (TBD)
+- owners.md: kill switch: outside owner 'FDE'
+- rollback.md: file missing
+- contacts.md: missing 'L3'
+- README.md: broken link rollback.md
+- alerts.md: broken link ../../ch14/alert.py
+- runbook.md: no module ch16.rollback
+HANDOVER INCOMPLETE: 7 problems

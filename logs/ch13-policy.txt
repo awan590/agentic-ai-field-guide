@@ -1,0 +1,11 @@
+Synthetic session: Priya Nair, order A-1003, role support.
+ALLOW get_order(A-1003)
+BLOCK get_order(A-1005)
+      A-1005 is not this shopper's order
+ALLOW send_email(priya.nair@mail.test)
+BLOCK send_email(audit@ledger-check.test)
+      mail goes only to the address on file
+ASK   issue_refund(A-1003, 56.75)
+      money moves only after human approval
+BLOCK export_customers()
+      export_customers is not allowed for this role

@@ -1,0 +1,10 @@
+A plan shaped like the case, checked against the baseline:
+  missing heading: ## Baseline
+  missing heading: ## Measure
+  missing heading: ## Stop if
+  missing line: - Tickets per week: 640
+  missing line: - Mean handle minutes: 9.0
+  missing line: - Error rate: 8.6%
+  missing line: - Candidate tickets per week: 453
+  missing line: - Candidate hours per week: 52.5
+8 problems: not ready to sign

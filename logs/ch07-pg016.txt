@@ -1,0 +1,18 @@
+query: PG-016
+keyword
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+vector
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  care#3      PG-010 gauge against a known reference once a year. A
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  returns#2   the sender. Items must be unused and in the original
+hybrid
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  care#3      PG-010 gauge against a known reference once a year. A
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  returns#2   the sender. Items must be unused and in the original
+hybrid + rerank
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  care#3      PG-010 gauge against a known reference once a year. A
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  returns#2   the sender. Items must be unused and in the original

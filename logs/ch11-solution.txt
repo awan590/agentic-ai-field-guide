@@ -1,0 +1,11 @@
+taco=3           placed
+water cup=8      placed
+                 agent:  "Just to check: 8 water cups. Is that right?"
+                 caller: "yes"
+water cup=8      not placed
+                 agent:  "Just to check: 8 water cups. Is that right?"
+                 caller: "no, two"
+                 no clear yes; ask for the order again
+water cup=18000  handoff
+                 water cup: 18,000 is over the limit of 10 per line
+orders placed: 2 of 4

@@ -1,0 +1,10 @@
+40 questions, 102 chunks, keyword search
+recall@1 0.525   recall@5 0.850   MRR 0.639
+misses (answer not in the top 5):
+  question                        expected found at      top hit
+  can i return grease if the tin  returns  not in top 10 gr-400#1
+  how long does delivery take     shipping rank 7        shipping#3
+  my v-belt wore out, is that cov warranty not in top 10 warranty#2
+  I put the wrong adress on my or orders   not in top 10 damaged#2
+  can i add another item to my or orders   not in top 10 stock#2
+  where do I find the SDS for GR- safety   not in top 10 safety#2

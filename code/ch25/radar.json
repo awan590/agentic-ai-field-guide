@@ -1,0 +1,128 @@
+{
+  "radar": "fde-radar-2026-q4",
+  "as_of": "2026-11-06",
+  "stale_days": 90,
+  "note": "Synthetic sample radar for an FDE on the Example Supply engagement. Sources, dates, and quotes are real saved pages; the read date of computer-use is set back on purpose to show the stale flag. The A2A, AP2, and ACP entries were read again on 2026-11-06.",
+  "entries": [
+    {
+      "id": "mcp-tools",
+      "trend": "MCP for tools and data",
+      "ring": "use",
+      "label": "fact",
+      "source": "S80",
+      "url": "https://modelcontextprotocol.io/specification/versioning",
+      "published": "2026-07-28",
+      "read": "2026-11-04",
+      "says": "The current protocol version is 2026-07-28.",
+      "skill": "Pin the MCP version in each server"
+    },
+    {
+      "id": "eu-ai-act",
+      "trend": "EU AI Act dates",
+      "ring": "use",
+      "label": "fact",
+      "source": "S932",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "published": "2026-10-19",
+      "read": "2026-11-04",
+      "says": "Rules for systems used in certain high-risk areas — including biometrics, critical infrastructure, education, employment, migration, asylum and border control — will apply from 2 December 2027.",
+      "skill": "Map duties by region with counsel"
+    },
+    {
+      "id": "computer-use",
+      "trend": "Agents that use screens",
+      "ring": "try",
+      "label": "claim",
+      "source": "S1027",
+      "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+      "published": "2024-10-22",
+      "read": "2026-06-15",
+      "says": "At this stage, it is still experimental—at times cumbersome and error-prone.",
+      "skill": "Guard screen actions with approvals"
+    },
+    {
+      "id": "agent-memory",
+      "trend": "Memory across sessions",
+      "ring": "try",
+      "label": "claim",
+      "source": "S1028",
+      "url": "https://www.anthropic.com/news/context-management",
+      "published": "2025-09-29",
+      "read": "2026-11-04",
+      "says": "The memory tool enables Claude to store and consult information outside the context window through a file-based system.",
+      "skill": "Review what the agent writes to memory"
+    },
+    {
+      "id": "small-models",
+      "trend": "Small models for narrow steps",
+      "ring": "try",
+      "label": "claim",
+      "source": "S1029",
+      "url": "https://arxiv.org/abs/2506.02153",
+      "published": "2025-06-02",
+      "read": "2026-11-04",
+      "says": "small language models (SLMs) are sufficiently powerful, inherently more suitable, and necessarily more economical for many invocations in agentic systems",
+      "skill": "Swap one model behind the eval gate"
+    },
+    {
+      "id": "long-tasks",
+      "trend": "Longer tasks per agent run",
+      "ring": "watch",
+      "label": "claim",
+      "source": "S1024",
+      "url": "https://metr.org/time-horizons/",
+      "published": "2026-09-08",
+      "read": "2026-11-04",
+      "says": "Measurements above 16 hrs are unreliable with our current task suite",
+      "skill": "Split long work into checked steps"
+    },
+    {
+      "id": "a2a-tasks",
+      "trend": "Agent-to-agent tasks",
+      "ring": "watch",
+      "label": "fact",
+      "source": "S1349",
+      "url": "https://github.com/a2aproject/A2A/releases",
+      "published": "2026-05-28",
+      "read": "2026-11-06",
+      "says": "TaskStatus values in the specification",
+      "skill": "Read agent cards and task states"
+    },
+    {
+      "id": "colorado-ai",
+      "trend": "Colorado AI law date",
+      "ring": "watch",
+      "label": "claim",
+      "source": "S938",
+      "url": "https://www.eckertseamans.com/legal-updates/colorado-repeals-and-replaces-its-landmark-ai-statute-what-businesses-need-to-know",
+      "published": "2026-06-12",
+      "read": "2026-11-04",
+      "says": "SB 26-189 is scheduled to take effect on January 1, 2027, but enforcement remains contingent on completion of Attorney General rulemaking, which has not yet formally commenced.",
+      "skill": "Track one state rule to its start date"
+    },
+    {
+      "id": "agent-payments",
+      "trend": "Agent payment mandates",
+      "ring": "hold",
+      "label": "fact",
+      "source": "S1352",
+      "url": "https://github.com/google-agentic-commerce/AP2/releases",
+      "published": "2026-04-28",
+      "read": "2026-11-06",
+      "says": "This is the second release of AP2. It focuses on providing Human Not Present flows.",
+      "skill": "Keep a person on every payment"
+    },
+    {
+      "id": "acp-versions",
+      "trend": "Agentic commerce checkout",
+      "ring": "hold",
+      "label": "fact",
+      "source": "S1354",
+      "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
+      "published": "2026-04-17",
+      "read": "2026-11-06",
+      "says": "ACP uses date-based versioning in YYYY-MM-DD format.",
+      "skill": "Pin the ACP version you read"
+    }
+  ]
+}

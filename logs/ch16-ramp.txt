@@ -1,0 +1,9 @@
+5ccedabe9a51 (stand-in-2): GATE PASS
+  step   5%:   53 canary tasks,  0 bad,  0.0 points worse, PROMOTE
+  step  25%:  246 canary tasks,  0 bad,  0.0 points worse, PROMOTE
+  step  50%:  489 canary tasks,  0 bad,  0.0 points worse, PROMOTE
+  step 100%: 1000 canary tasks,  0 bad,  0.0 points worse, PROMOTE
+after the ramp: {'stable': '5ccedabe9a51', 'canary': None}
+dd6499fae417 (agreeable prompt): gate skipped
+  step   5%:   53 canary tasks, 13 bad, 24.5 points worse, ROLL BACK
+next 2000 tasks served by: 1748edfe6380

@@ -1,0 +1,39 @@
+{
+  "agent": "returns",
+  "version": 1,
+  "actions": {
+    "get_order": [
+      "AUTO",
+      "returns lead"
+    ],
+    "search_policy": [
+      "AUTO",
+      "returns lead"
+    ],
+    "read_message": [
+      "AUTO",
+      "returns lead"
+    ],
+    "send_email": [
+      "NOTIFY",
+      "returns lead"
+    ],
+    "issue_refund": [
+      "ASK",
+      "finance lead"
+    ],
+    "cancel_order": [
+      "OFF",
+      "orders team"
+    ],
+    "export_customers": [
+      "OFF",
+      "data owner"
+    ]
+  },
+  "never": [
+    "change_price",
+    "delete_order",
+    "export_customers"
+  ]
+}

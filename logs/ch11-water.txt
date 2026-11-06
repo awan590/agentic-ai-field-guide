@@ -1,0 +1,4 @@
+Synthetic limits, not any real menu or catalog.
+REJECT  drive water cup=18000
+        water cup: 18,000 is over the limit of 10 per line
+        fix: Read the order back, or hand off to a person.

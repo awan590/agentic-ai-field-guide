@@ -1,0 +1,7 @@
+agent    Can I return a pump I bought 20 days ago?
+handoff  Is it legal for you to keep a restocking fee?
+         out of scope: the law, for the support lead
+handoff  Does the law make you refund my shipping cost?
+         out of scope: the law, for the support lead
+handoff  Can you match a cheaper price from another store?
+         out of scope: price matching, for the sales team

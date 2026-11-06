@@ -1,0 +1,14 @@
+   task   How long does standard delivery take?
+ 1 model  tokens=63  Looking that up.
+ 1 call   search_policy({"query": "How long does standard delivery ta...
+ 1 result {"results": [{"id": "shipping#1", "text": "Shipping and del...
+ 2 model  tokens=344  Smaller orders pay a flat $9.95 for standard de...
+   stop   done  steps=2  tokens=407
+   Smaller orders pay a flat $9.95 for standard delivery; express costs
+   $24 [shipping#2]. Next step: watch for the tracking link in your
+   email.
+   check  rule     NO
+   check  no_wrong yes
+   check  cited    yes
+   check  lookup   yes
+   check  stopped  yes

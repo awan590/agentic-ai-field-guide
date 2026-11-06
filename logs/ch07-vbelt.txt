@@ -1,0 +1,21 @@
+query: my v-belt wore out, is that covered?
+keyword
+  warranty#2  not covered once fitted. Damage from wrong fitting,
+  stock#1     Stock and back orders Out of stock items An item that is
+  vb-a42#1    V-belt A42 About this part Part number VB-A42. A classic
+  vb-a50#1    V-belt A50 About this part Part number VB-A50. A classic
+vector
+  warranty#2  not covered once fitted. Damage from wrong fitting,
+  refunds#2   Only shipped or delivered orders can be refunded. What is
+  stock#1     Stock and back orders Out of stock items An item that is
+  vb-b60#1    V-belt B60 About this part Part number VB-B60. A wider
+hybrid
+  warranty#2  not covered once fitted. Damage from wrong fitting,
+  stock#1     Stock and back orders Out of stock items An item that is
+  vb-a42#1    V-belt A42 About this part Part number VB-A42. A classic
+  vb-a50#1    V-belt A50 About this part Part number VB-A50. A classic
+hybrid + rerank
+  warranty#1  Warranty Warranty period Parts carry a 12 month warranty
+  stock#1     Stock and back orders Out of stock items An item that is
+  warranty#2  not covered once fitted. Damage from wrong fitting,
+  refunds#2   Only shipped or delivered orders can be refunded. What is

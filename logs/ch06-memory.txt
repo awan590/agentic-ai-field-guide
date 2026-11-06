@@ -1,0 +1,8 @@
+recall(example-supply, S-17): 3 rows
+  2026-10-30 refund: Refund R-A-1001 requested for A-1001: $15.90.
+  2026-03-02 refund: Refund for A-0388 approved and paid: $22.40.
+  2026-01-10 preference: Prefers email, not phone calls.
+recall(store-b, S-17): 1 row
+  2026-10-12 refund: Refund for B-0077 approved: $410.00.
+query on shopper alone: 2 tenants mixed
+forget(example-supply, S-23): 1 row

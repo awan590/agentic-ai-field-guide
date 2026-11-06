@@ -1,0 +1,17 @@
+{
+  "name": "execute_tool get_order",
+  "kind": "INTERNAL",
+  "trace_id": "e8ebc4c0a829569a245fa62dff922d5e",
+  "span_id": "d9f3a3df49c7c058",
+  "parent_span_id": "560fb0d333f3c1ee",
+  "start": 1.04,
+  "end": 1.19,
+  "status": "ERROR",
+  "attributes": {
+    "gen_ai.operation.name": "execute_tool",
+    "gen_ai.tool.name": "get_order",
+    "gen_ai.tool.call.id": "call_1_1",
+    "gen_ai.tool.type": "function",
+    "error.type": "tool_error"
+  }
+}

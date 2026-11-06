@@ -1,0 +1,11 @@
+Handover pack: ch21/solution_pack
+part       file          result
+index      README.md     ok
+runbook    runbook.md    ok
+owners     owners.md     ok
+rollback   rollback.md   ok
+eval gate  evals.md      ok
+alerts     alerts.md     ok
+data map   data-map.md   ok
+contacts   contacts.md   ok
+HANDOVER OK: 8 parts, 0 problems

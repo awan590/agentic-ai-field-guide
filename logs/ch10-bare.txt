@@ -1,0 +1,3 @@
+plan:  drop the restocking fee
+patch: refunds.py: 'RESTOCK_PERCENT = 10' -> 'RESTOCK_PERCENT = 0'
+tests: never run

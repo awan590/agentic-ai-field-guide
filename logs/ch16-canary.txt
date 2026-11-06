@@ -1,0 +1,6 @@
+stable 1748edfe6380, canary dd6499fae417 (gate skipped)
+  stable  1901 tasks   0 bad answers    0.0%
+  canary    99 tasks  29 bad answers   29.3%
+verdict: ROLL BACK, canary 29.3 points worse (limit 2)
+after rollback: {'stable': '1748edfe6380', 'canary': None}
+next 2000 tasks served by: 1748edfe6380

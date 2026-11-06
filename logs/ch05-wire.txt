@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "jsonrpc": "2.0",
+  "method": "tools/call",
+  "params": {
+    "_meta": {
+      "io.modelcontextprotocol/clientCapabilities": {},
+      "io.modelcontextprotocol/protocolVersion": "2026-07-28"
+    },
+    "arguments": {
+      "amount": 15.9,
+      "order_id": "A-1001",
+      "reason": "arrived damaged"
+    },
+    "name": "request_refund"
+  }
+}
+{
+  "error": {
+    "code": -31403,
+    "data": {
+      "requiredScope": "refunds:write"
+    },
+    "message": "request_refund needs scope refunds:write"
+  },
+  "id": 5,
+  "jsonrpc": "2.0"
+}

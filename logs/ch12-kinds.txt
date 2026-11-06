@@ -1,0 +1,8 @@
+stale-policy     7  #######
+agrees-wrong     6  ######
+refund-promise   5  #####
+wrong-page       5  #####
+no-lookup        3  ###
+bad-step         2  ##
+bad-cite         2  ##
+traces          30

@@ -1,0 +1,6 @@
+   task   Where is my order A-1005?
+ 1 model  tokens=176  (no text)
+ 1 call   order_status({"order_id": "A-1005"})
+ 1 result {"id": "A-1005", "status": "shipped", "placed": "2026-10-29"}
+ 2 model  tokens=243  A-1005 shipped. It was placed on October 29.
+   stop   done  steps=2  tokens=419

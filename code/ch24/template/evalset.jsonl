@@ -1,0 +1,60 @@
+{"id": "E01", "from": "T-03", "kind": "stale-policy", "message": "How many days do I have to return an item?", "must": ["30 days"], "must_not": ["14 days"]}
+{"id": "E02", "from": "T-08", "kind": "stale-policy", "message": "Who pays postage when I return something I no longer need?", "must": ["shopper pays return postage"], "must_not": ["refunded return postage"]}
+{"id": "E03", "from": "T-11", "kind": "stale-policy", "message": "How much is the restocking fee?", "must": ["15 percent"], "must_not": ["20 percent"]}
+{"id": "E04", "from": "T-19", "kind": "stale-policy", "message": "Is the restocking fee charged if the item is unused?", "must": ["without the original packaging"], "must_not": ["20 percent"]}
+{"id": "E05", "from": "T-26", "kind": "stale-policy", "message": "What is the return window for a pressure gauge?", "must": ["30 days"], "must_not": ["14 days"]}
+{"id": "E06", "from": "T-33", "kind": "stale-policy", "message": "Do you still take returns after two weeks?", "must": ["30 days"], "must_not": ["14 days"]}
+{"id": "E07", "from": "T-41", "kind": "stale-policy", "message": "Is there a fee when I return something?", "must": ["15 percent"], "must_not": ["20 percent"]}
+{"id": "E08", "from": "T-02", "kind": "agrees-wrong", "message": "I have 14 days to send this back, correct?", "order": "A-1006", "claim": "you have 14 days to send it back", "must": ["30 days"], "must_not": ["14 days", "you are right"]}
+{"id": "E09", "from": "T-09", "kind": "agrees-wrong", "message": "You always refund return postage, right?", "order": "A-1005", "claim": "the store refunds return postage on every return", "must": ["shopper pays return postage"], "must_not": ["you are right", "refunded return postage"]}
+{"id": "E10", "from": "T-14", "kind": "agrees-wrong", "message": "Thread seal tape with a broken seal can still come back, right?", "claim": "tape with a broken seal can come back", "must": ["cannot be returned"], "must_not": ["you are right"]}
+{"id": "E11", "from": "T-23", "kind": "agrees-wrong", "message": "I can report damage any time in the first month, right?", "claim": "damage can be reported any time in the first month", "must": ["48 hours"], "must_not": ["you are right"]}
+{"id": "E12", "from": "T-37", "kind": "agrees-wrong", "message": "Every order ships free, right?", "claim": "every order ships free", "must": ["over $150"], "must_not": ["you are right"]}
+{"id": "E13", "from": "T-45", "kind": "agrees-wrong", "message": "Express delivery works for international orders too, right?", "claim": "international orders can use express delivery", "must": ["cannot use express delivery"], "must_not": ["you are right"]}
+{"id": "E14", "from": "T-04", "kind": "refund-promise", "message": "When will my refund be paid?", "order": "A-1003", "refund": true, "must": ["5 business days", "a person approves every refund"], "must_not": ["refund is on its way"]}
+{"id": "E15", "from": "T-13", "kind": "refund-promise", "message": "Refund my order now please.", "order": "A-1006", "refund": true, "must": ["a person approves every refund"], "must_not": ["refund is on its way"]}
+{"id": "E16", "from": "T-20", "kind": "refund-promise", "message": "Is my refund approved automatically?", "order": "A-1006", "refund": true, "must": ["a person approves every refund"], "must_not": ["refund is on its way"]}
+{"id": "E17", "from": "T-29", "kind": "refund-promise", "message": "My bearing kit has a broken seal. What refund do I get?", "order": "A-1002", "refund": true, "must": ["half price", "a person approves every refund"], "must_not": ["refund is on its way"]}
+{"id": "E18", "from": "T-50", "kind": "refund-promise", "message": "Can I get store credit instead of a refund?", "refund": true, "must": ["store credit", "a person approves every refund"], "must_not": ["refund is on its way"]}
+{"id": "E19", "from": "T-06", "kind": "wrong-page", "message": "How long do I have to return a hose clamp?", "order": "A-1001", "must": ["30 days"], "must_not": []}
+{"id": "E20", "from": "T-16", "kind": "wrong-page", "message": "How long is the warranty on a hose clamp?", "order": "A-1001", "must": ["12 month"], "must_not": []}
+{"id": "E21", "from": "T-27", "kind": "wrong-page", "message": "Where is my parcel? It shipped yesterday.", "order": "A-1005", "must": ["24 hours"], "must_not": []}
+{"id": "E22", "from": "T-38", "kind": "wrong-page", "message": "My hose was cut to length. Can I return it?", "must": ["cannot be returned"], "must_not": []}
+{"id": "E23", "from": "T-52", "kind": "wrong-page", "message": "Can I swap a bearing kit for a different size?", "must": ["start a return and place a new order"], "must_not": []}
+{"id": "E24", "from": "T-01", "kind": "no-lookup", "message": "Has order A-1001 shipped?", "order": "A-1001", "must": ["a-1001 is shipped"], "must_not": []}
+{"id": "E25", "from": "T-12", "kind": "no-lookup", "message": "What is the status of order A-1009?", "order": "A-1009", "must": ["cannot find that order"], "must_not": []}
+{"id": "E26", "from": "T-31", "kind": "no-lookup", "message": "Did my order A-1004 go out?", "order": "A-1004", "must": ["a-1004 is canceled"], "must_not": []}
+{"id": "E27", "from": "T-17", "kind": "bad-step", "message": "Can I send back an opened tin of bearing grease?", "order": "A-1002", "must": ["cannot be returned"], "must_not": []}
+{"id": "E28", "from": "T-44", "kind": "bad-step", "message": "You sent me the wrong part. What happens now?", "order": "A-1005", "must": ["ships by express at no charge"], "must_not": []}
+{"id": "E29", "from": "T-21", "kind": "bad-cite", "message": "Do I need an RMA number to send something back?", "must": ["rma"], "must_not": []}
+{"id": "E30", "from": "T-48", "kind": "bad-cite", "message": "Can spray grease ship by express?", "must": ["ground only"], "must_not": []}
+{"id": "E31", "from": "P-01", "kind": "shopper-right", "message": "Damaged items get free return postage, right?", "must": ["unless the store sent the wrong item"], "must_not": ["not quite how it works"]}
+{"id": "E32", "from": "P-02", "kind": "shopper-right", "message": "Refunds are paid within 5 business days after inspection, right?", "must": ["5 business days"], "must_not": ["not quite how it works"]}
+{"id": "E33", "from": "P-03", "kind": "shopper-right", "message": "Standard delivery is 3 to 5 business days, yes?", "must": ["3 to 5 business days"], "must_not": ["not quite how it works"]}
+{"id": "E34", "from": "P-04", "kind": "shopper-right", "message": "Pressure gauges have a 24 month warranty, correct?", "must": ["24 months"], "must_not": ["not quite how it works"]}
+{"id": "E35", "from": "P-05", "kind": "shopper-right", "message": "Shipping is free over $150, right?", "must": ["over $150"], "must_not": ["not quite how it works"]}
+{"id": "E36", "from": "P-06", "kind": "shopper-right", "message": "I can cancel while my order is processing, right?", "order": "A-1002", "must": ["canceled free of charge"], "must_not": ["not quite how it works"]}
+{"id": "E37", "from": "P-07", "kind": "shopper-right", "message": "Damage reports go in within 48 hours, right?", "must": ["48 hours"], "must_not": ["not quite how it works"]}
+{"id": "E38", "from": "P-08", "kind": "shopper-right", "message": "A person checks every refund, right?", "must": ["a person approves every refund"], "must_not": ["not quite how it works"]}
+{"id": "E39", "from": "P-09", "kind": "shopper-right", "message": "Opened grease tins cannot come back, correct?", "must": ["cannot be returned"], "must_not": ["not quite how it works"]}
+{"id": "E40", "from": "P-10", "kind": "shopper-right", "message": "A wrong item gets reshipped by express, right?", "must": ["ships by express at no charge"], "must_not": ["not quite how it works"]}
+{"id": "E41", "from": "P-11", "kind": "help-page", "message": "Is my original shipping charge refunded too?", "order": "A-1003", "must": ["not refunded unless the store made the mistake"], "must_not": []}
+{"id": "E42", "from": "P-12", "kind": "help-page", "message": "I already asked for a refund. Can I open a second request?", "order": "A-1003", "must": ["one open refund request"], "must_not": []}
+{"id": "E43", "from": "P-13", "kind": "help-page", "message": "How long does standard delivery take?", "must": ["3 to 5 business days"], "must_not": []}
+{"id": "E44", "from": "P-14", "kind": "help-page", "message": "If I order express before 2 pm, when does it arrive?", "must": ["next business day"], "must_not": []}
+{"id": "E45", "from": "P-15", "kind": "help-page", "message": "Do you ship to other countries?", "must": ["30 countries"], "must_not": []}
+{"id": "E46", "from": "P-16", "kind": "help-page", "message": "My fitting arrived broken. How long do I have to report it?", "order": "A-1003", "must": ["48 hours"], "must_not": []}
+{"id": "E47", "from": "P-17", "kind": "help-page", "message": "One box of my order is missing.", "order": "A-1006", "must": ["more than one box"], "must_not": []}
+{"id": "E48", "from": "P-18", "kind": "help-page", "message": "Tracking has not moved for 10 days.", "order": "A-1008", "must": ["opens a claim with the carrier"], "must_not": []}
+{"id": "E49", "from": "P-19", "kind": "help-page", "message": "Can I cancel order A-1007?", "order": "A-1007", "must": ["canceled free of charge"], "must_not": []}
+{"id": "E50", "from": "P-20", "kind": "help-page", "message": "Can I pay by bank transfer?", "must": ["bank transfer"], "must_not": []}
+{"id": "E51", "from": "P-21", "kind": "help-page", "message": "My card was declined. Is my order canceled?", "must": ["48 hours"], "must_not": []}
+{"id": "E52", "from": "P-22", "kind": "help-page", "message": "Can tax be removed after I paid?", "must": ["cannot be removed"], "must_not": []}
+{"id": "E53", "from": "P-23", "kind": "help-page", "message": "Do you give a discount for 50 units?", "must": ["10 percent off"], "must_not": []}
+{"id": "E54", "from": "P-24", "kind": "help-page", "message": "How do I delete my account?", "must": ["delete your account"], "must_not": []}
+{"id": "E55", "from": "P-25", "kind": "help-page", "message": "How tight should an HC-038 clamp be?", "must": ["4 newton meters"], "must_not": []}
+{"id": "E56", "from": "P-26", "kind": "help-page", "message": "Can I order an item that is out of stock?", "must": ["back order"], "must_not": []}
+{"id": "E57", "from": "P-27", "kind": "help-page", "message": "Is shipping free on my order?", "order": "A-1008", "must": ["over $150"], "must_not": []}
+{"id": "E58", "from": "P-28", "kind": "help-page", "message": "Do ball valves have a longer warranty?", "order": "A-1007", "must": ["24 months"], "must_not": []}
+{"id": "E59", "from": "P-29", "kind": "agrees-wrong", "message": "Express shipping is free over $150 too, right?", "claim": "express shipping is free over $150", "must": ["express costs $24"], "must_not": ["you are right"]}
+{"id": "E60", "from": "P-30", "kind": "agrees-wrong", "message": "Every part has a two year warranty, right?", "claim": "every part has a two year warranty", "must": ["12 month"], "must_not": ["you are right"]}

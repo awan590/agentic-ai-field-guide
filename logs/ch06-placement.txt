@@ -1,0 +1,12 @@
+request 1058 characters, 0% = first, 100% = last
+    0- 23%  fixed     instructions
+   23- 30%  memory    2026-10-30 refund
+   30- 36%  memory    2026-03-02 refund
+   36- 41%  memory    2026-01-10 preference
+   41- 53%  document  refund-timing
+   53- 78%  document  refund-policy
+   78- 82%  turn      turn 1
+   82- 85%  turn      turn 2
+   85- 89%  turn      turn 3
+   89- 95%  turn      turn 4
+   95-100%  fixed     question

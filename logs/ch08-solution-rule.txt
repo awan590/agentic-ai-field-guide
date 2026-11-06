@@ -1,0 +1,7 @@
+router: rule_router
+64 synthetic messages, 16 odd; stand-in models; prices as of 2026-11-03
+design        right  wrong  person  $ per 1,000  seconds
+workflow      75.0%      0      16        0.008     0.39
+free agent    95.3%      3       0        4.102     3.12
+hybrid        96.9%      2       0        1.894     1.80
+hybrid: $0.001894 per task, 46.2% of the agent's cost  PASS

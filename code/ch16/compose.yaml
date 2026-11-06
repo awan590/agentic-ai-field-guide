@@ -1,0 +1,25 @@
+# Text only: not built or run for this book.
+# From the code folder: docker compose -f ch16/compose.yaml up
+services:
+  agent:
+    build:
+      context: ..
+      dockerfile: ch16/Dockerfile
+    ports:
+      - "127.0.0.1:8016:8016"
+    environment:
+      - ANTHROPIC_API_KEY
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - >-
+          import http.client as h;
+          c = h.HTTPConnection("127.0.0.1", 8016, timeout=3);
+          c.request("GET", "/health");
+          raise SystemExit(c.getresponse().status != 200)
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped

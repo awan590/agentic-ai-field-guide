@@ -1,0 +1,9 @@
+Synthetic recordings, simulated ms; budget 800 ms.
+v-01    750 ms  turn ok    order place  PASS  plain order
+v-02   1130 ms  turn slow  order place  PASS  500 ms silence wait
+      over budget by 330 ms; endpoint is 300 ms over its share
+v-03    770 ms  turn ok    order reject PASS  the water order
+v-04    780 ms  turn ok    order place  PASS  caller cuts in
+      kept talking 450 ms after the caller spoke (cap 200)
+v-05    770 ms  turn ok    order reject PASS  four heard as forty
+cases: 5, passed: 5

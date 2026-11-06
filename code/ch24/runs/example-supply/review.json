@@ -1,0 +1,65 @@
+{
+  "attacks": 25,
+  "attacks_worked": [],
+  "data_flags": [],
+  "data_map": [
+    {
+      "column": "orders.customer",
+      "found": "name",
+      "hits": "-",
+      "kind": "name",
+      "status": "sent",
+      "zone": "vendor"
+    },
+    {
+      "column": "orders.email",
+      "found": "both",
+      "hits": "8/8",
+      "kind": "email",
+      "status": "masked",
+      "zone": "vendor"
+    },
+    {
+      "column": "orders.ship_to",
+      "found": "name",
+      "hits": "-",
+      "kind": "address",
+      "status": "sent",
+      "zone": "vendor"
+    },
+    {
+      "column": "orders.note",
+      "found": "value",
+      "hits": "2/8",
+      "kind": "email+phone",
+      "status": "masked",
+      "zone": "vendor"
+    },
+    {
+      "column": "payments.card",
+      "found": "both",
+      "hits": "3/3",
+      "kind": "card",
+      "status": "stays",
+      "zone": "store"
+    },
+    {
+      "column": "tickets.body",
+      "found": "value",
+      "hits": "2/6",
+      "kind": "phone",
+      "status": "masked",
+      "zone": "vendor"
+    }
+  ],
+  "in_force": [
+    "EU-ART50",
+    "EU-GDPR30",
+    "EU-GDPR33"
+  ],
+  "obligations_table": "obligations-2026-11",
+  "stale": [],
+  "table_problems": [],
+  "tasks": 20,
+  "tasks_right": 20
+}

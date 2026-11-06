@@ -1,0 +1,10 @@
+trace e8ebc4c0a829569a245fa62dff922d5e
+span (simulated seconds)           start    end  note
+invoke_agent supply-helper          0.00   3.14
+  chat stand-in-1                   0.00   1.04  in 87 out 32
+  execute_tool get_order            1.04   1.19  tool_error
+  chat stand-in-1                   1.19   2.23  in 157 out 32
+  execute_tool get_order            2.23   2.38
+  chat stand-in-1                   2.38   3.14  in 295 out 18
+answer: Order A-1003 shows as delivered.
+summary: {"ms": 3140, "tok": 621, "err": 1, "handoff": 0}

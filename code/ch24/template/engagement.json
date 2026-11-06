@@ -1,0 +1,38 @@
+{
+  "as_of": "2026-11-04",
+  "synthetic": true,
+  "note": "One engagement, one folder. Every name and number is invented. Copy the folder for a new customer, replace the exports, and edit this file.",
+  "customer": "Example Supply Co.",
+  "short": "Example Supply",
+  "discovery": {"weeks_min": 2, "tickets_min": 500},
+  "data": {
+    "reaches": {"orders": "vendor", "payments": "store",
+                "products": "vendor", "tickets": "vendor"},
+    "masked": ["orders.email", "orders.note", "tickets.body"]
+  },
+  "profile": {
+    "agent": "returns-helper",
+    "customer": "Example Supply Co. (invented)",
+    "job": "Drafts replies to shoppers about returns; a person approves every refund.",
+    "tier": "transparency",
+    "regions": ["EU", "UK", "US", "US-CO", "AE", "SA", "SG", "JP"],
+    "roles": {"provider": "tech lead", "deployer": "returns lead",
+              "controller": "privacy lead", "any": "governance lead"}
+  },
+  "business": {"break_even_max": 12},
+  "owners": [
+    ["answers to shoppers", "head of customer service", "returns desk lead"],
+    ["alerts and on-call", "platform on-call lead", "platform engineer on duty"],
+    ["rollback", "platform on-call lead", "IT operations lead"],
+    ["kill switch", "returns desk lead", "platform on-call lead"],
+    ["eval gate", "platform engineer on duty", "platform on-call lead"],
+    ["data map", "data protection lead", "IT operations lead"],
+    ["adoption numbers", "returns desk lead", "head of customer service"]
+  ],
+  "contacts": {
+    "L1": "returns desk staff and the returns desk lead, in working hours.",
+    "L2": "platform on-call, at any hour: pages, rollback, kill switch.",
+    "L3": "the FDE until the end of hypercare in week 4, then the IT operations lead."
+  },
+  "rehearsal": "Week 0 of go-live (synthetic): the platform on-call lead rolled back to the last good bundle on staging and ran the smoke test, with the FDE watching."
+}

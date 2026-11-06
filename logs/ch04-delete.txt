@@ -1,0 +1,13 @@
+-- no approver set
+error: delete_order needs human approval, and no approver is set
+fix: Do not call it again. Tell the customer a person will review the
+     request.
+-- a person is asked
+preview: {"dry_run": true, "would_delete": "A-1004", "customer": "Tomasz
+         Wolski", "status": "canceled", "total": 38.75}
+person: yes
+deleted: A-1004
+-- the same call again
+deleted: A-1004
+replayed: true
+orders left: 7; deletes run: 1

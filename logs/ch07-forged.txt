@@ -1,0 +1,5 @@
+   task   A-1003 came with a cracked fitting. Do I pay to send it bac...
+ 1 model  tokens=180  Return postage is always refunded [returns#1].
+   stop   done  steps=1  tokens=180
+found: nothing
+cited: returns#1 | not retrieved: returns#1 | FAIL

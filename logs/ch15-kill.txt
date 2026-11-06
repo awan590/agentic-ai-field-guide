@@ -1,0 +1,13 @@
+   task   Check every open order.
+ 1 model  tokens=102  (no text)
+ 1 call   get_order({"order_id": "A-1001"})
+ 1 result {"id": "A-1001", "customer": "Lena Ortiz", "items": [{"sku"...
+ 2 model  tokens=209  (no text)
+ 2 call   get_order({"order_id": "A-1002"})
+ 2 result {"id": "A-1002", "customer": "Omar Haddad", "items": [{"sku...
+ 3 model  tokens=336  (no text)
+ 3 call   get_order({"order_id": "A-1003"})
+ 3 result {"error": "kill switch: call not made"}
+   stop   kill switch: operator, at 5 s  steps=3  tokens=647
+simulated seconds: 6
+handoff to person: kill switch: operator, at 5 s

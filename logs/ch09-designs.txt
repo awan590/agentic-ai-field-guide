@@ -1,0 +1,5 @@
+design       calls  tokens  x one  done  person
+one agent        5     668   1.00     4       1
+supervisor      12   1,310   1.96     3       2
+full trace      12   1,458   2.18     3       2
+no breaker      19   2,364   3.54     3       2

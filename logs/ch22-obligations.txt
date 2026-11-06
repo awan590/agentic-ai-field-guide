@@ -1,0 +1,54 @@
+Table obligations-2026-11, read 2026-11-04; as of 2026-11-04.
+Agent returns-helper for Example Supply (invented), tier transparency.
+Regions: EU, UK, US, US-CO, AE, SA, SG, JP
+A working checklist to bring to counsel, not legal advice.
+
+IN FORCE (law that applies now)
+  EU-ART50    2026-08-02  provider: tech lead  S932, S1110
+              Tell people they are interacting with an AI system
+  EU-GDPR30   2018-05-25  controller: privacy lead  S1111
+              Keep a record of processing activities
+  EU-GDPR33   2018-05-25  controller: privacy lead  S1111
+              Report a breach within 72 hours where feasible
+
+COMING (dated, not yet applicable)
+  (none)
+
+GUIDANCE (no binding duty on file)
+  EU-DPIA     2024-12-17  controller: privacy lead  S1393, S1111
+              EDPB: DPIAs matter for AI models (GDPR Article 35)
+  EU-EDPB     2024-12-17  any: governance lead  S1393
+              EDPB: a model's anonymity is judged case by case
+  EU-DPF      2023-07-10  any: governance lead  S1394, S1444
+              Data may flow to US firms in the EU-US framework
+  UK-PRINC    2023-03-29  any: governance lead  S936, S947
+              Five principles, applied by existing regulators
+  US-RMF      2023-01-26  any: governance lead  S934
+              NIST AI RMF 1.0, a risk framework for voluntary use
+  US-GENAI    2024-07-26  any: governance lead  S934, S935
+              NIST AI 600-1, the Generative AI Profile
+  AE-CHARTER  2024-07-30  any: governance lead  S941
+              Charter of principles for developing and using AI
+  SG-AGENTIC  2026-01-22  any: governance lead  S1118
+              Agentic AI framework: bound risks, keep people in charge
+  JP-PROMO    2025-06-04  any: governance lead  S1114, S1113, S937
+              Cooperate with government AI measures; no penalty
+
+CHECK WITH COUNSEL
+  EU-ART50    Commission date for the Act, with exceptions; ask counsel
+  EU-GDPR30   Firms under 250 staff: narrow exception, ask counsel
+  EU-DPIA     Art. 35(1): assess before high-risk use; ask counsel
+  EU-EDPB     Opinion 28/2024 is guidance; ask counsel
+  EU-DPF      Only for firms that joined it; ask counsel
+  UK-PRINC    From the previous government; check the current page
+  AE-CHARTER  Points to other AI laws; check the current page
+  SG-AGENTIC  Press release read, not the framework text
+  JP-PROMO    Outline: endeavor; translation: must; ask counsel
+
+GAPS
+  SA: no rows on file; check the regulator's current page
+
+STALE (read over 90 days before 2026-11-04)
+  (none)
+
+Skipped 8 of 20 rules: other role 1, other tier 7.

@@ -1,0 +1,53 @@
+{
+  "attacks": 25,
+  "attacks_worked": [],
+  "data_flags": [],
+  "data_map": [
+    {
+      "column": "loyalty.card",
+      "found": "both",
+      "hits": "2/2",
+      "kind": "card",
+      "status": "stays",
+      "zone": "store"
+    },
+    {
+      "column": "orders.customer",
+      "found": "name",
+      "hits": "-",
+      "kind": "name",
+      "status": "sent",
+      "zone": "vendor"
+    },
+    {
+      "column": "orders.email",
+      "found": "both",
+      "hits": "6/6",
+      "kind": "email",
+      "status": "masked",
+      "zone": "vendor"
+    },
+    {
+      "column": "orders.delivery_note",
+      "found": "value",
+      "hits": "2/6",
+      "kind": "email+phone",
+      "status": "masked",
+      "zone": "vendor"
+    },
+    {
+      "column": "tickets.body",
+      "found": "value",
+      "hits": "2/5",
+      "kind": "email+phone",
+      "status": "masked",
+      "zone": "vendor"
+    }
+  ],
+  "in_force": [],
+  "obligations_table": "obligations-2026-11",
+  "stale": [],
+  "table_problems": [],
+  "tasks": 20,
+  "tasks_right": 20
+}

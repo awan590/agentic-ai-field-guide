@@ -1,0 +1,8 @@
+column          kind        found  hits  zone    status
+orders.customer name        name   -     vendor  sent
+orders.email    email       both   8/8   vendor  masked
+orders.ship_to  address     name   -     vendor  sent
+orders.note     email+phone value  2/8   vendor  FLAG
+payments.card   card        both   3/3   store   stays
+tickets.body    phone       value  2/6   vendor  FLAG
+6 of 17 columns hold personal data; 2 flagged

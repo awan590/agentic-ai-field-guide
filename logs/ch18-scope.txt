@@ -1,0 +1,12 @@
+Scope: returns agent, version 1
+problems: 0
+wrote ch18/returns_policy.json
+action            tier setting verdict owner
+get_order            1 AUTO    ALLOW   returns lead
+search_policy        1 AUTO    ALLOW   returns lead
+read_message         1 AUTO    ALLOW   returns lead
+send_email           2 NOTIFY  ALLOW   returns lead
+issue_refund         3 ASK     ASK     finance lead
+cancel_order         2 OFF     BLOCK   orders team
+export_customers     3 OFF     BLOCK   data owner
+never: change_price, delete_order, export_customers

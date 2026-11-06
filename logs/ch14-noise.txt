@@ -1,0 +1,5 @@
+normal_day.jsonl, synthetic: alerts each rule would send
+  one alert per error                       11
+  one alert per reply over 5 s               5
+  one alert per flagged reply                2
+  windowed rules, held two checks            0

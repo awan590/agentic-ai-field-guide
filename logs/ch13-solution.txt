@@ -1,0 +1,5 @@
+All defenses on; 25 attacks, 20 normal tasks (synthetic).
+link filter    attacks that worked   normal right
+inline only     2 of 25 (P4 P5)      20 of 20
+lockdown        0 of 25              17 of 20
+strict          0 of 25              20 of 20

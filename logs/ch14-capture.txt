@@ -1,0 +1,3 @@
+gen_ai.input.messages, as stored:
+[{"role": "user", "content": "Where is my order A-1O03? Text me on
++** 23 or p***@mail.test if it is late."}]

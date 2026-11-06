@@ -1,0 +1,720 @@
+{"t": "00:00", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1765, "tok": 1143, "err": 0, "handoff": 0}
+{"t": "00:02", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1658, "tok": 1121, "err": 0, "handoff": 0}
+{"t": "00:04", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2502, "tok": 1258, "err": 0, "handoff": 0}
+{"t": "00:06", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2080, "tok": 1546, "err": 0, "handoff": 0}
+{"t": "00:08", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2259, "tok": 1054, "err": 0, "handoff": 0}
+{"t": "00:10", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1990, "tok": 1130, "err": 0, "handoff": 0}
+{"t": "00:12", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1114, "tok": 1141, "err": 0, "handoff": 0}
+{"t": "00:14", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1348, "tok": 1022, "err": 0, "handoff": 0}
+{"t": "00:16", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2359, "tok": 1294, "err": 0, "handoff": 0}
+{"t": "00:18", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1909, "tok": 992, "err": 0, "handoff": 0}
+{"t": "00:20", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2620, "tok": 920, "err": 0, "handoff": 0}
+{"t": "00:22", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1595, "tok": 1444, "err": 0, "handoff": 0}
+{"t": "00:24", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1201, "tok": 1438, "err": 0, "handoff": 0}
+{"t": "00:26", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1592, "tok": 1332, "err": 0, "handoff": 0}
+{"t": "00:28", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1552, "tok": 1230, "err": 0, "handoff": 0}
+{"t": "00:30", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2109, "tok": 1486, "err": 0, "handoff": 0}
+{"t": "00:32", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2487, "tok": 1705, "err": 0, "handoff": 0}
+{"t": "00:34", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1963, "tok": 1378, "err": 0, "handoff": 0}
+{"t": "00:36", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2139, "tok": 916, "err": 0, "handoff": 0}
+{"t": "00:38", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1632, "tok": 1073, "err": 0, "handoff": 0}
+{"t": "00:40", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1447, "tok": 985, "err": 0, "handoff": 0}
+{"t": "00:42", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2538, "tok": 1226, "err": 0, "handoff": 0}
+{"t": "00:44", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1095, "tok": 1694, "err": 0, "handoff": 0}
+{"t": "00:46", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1789, "tok": 1132, "err": 0, "handoff": 0}
+{"t": "00:48", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 4094, "tok": 1262, "err": 0, "handoff": 0}
+{"t": "00:50", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2782, "tok": 1374, "err": 0, "handoff": 0}
+{"t": "00:52", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1801, "tok": 1223, "err": 0, "handoff": 0}
+{"t": "00:54", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2434, "tok": 1363, "err": 0, "handoff": 0}
+{"t": "00:56", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1968, "tok": 1254, "err": 0, "handoff": 0}
+{"t": "00:58", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2214, "tok": 981, "err": 0, "handoff": 0}
+{"t": "01:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2068, "tok": 1862, "err": 0, "handoff": 0}
+{"t": "01:02", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2563, "tok": 1259, "err": 0, "handoff": 0}
+{"t": "01:04", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1590, "tok": 1244, "err": 0, "handoff": 0}
+{"t": "01:06", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2119, "tok": 1123, "err": 0, "handoff": 0}
+{"t": "01:08", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1193, "tok": 1209, "err": 0, "handoff": 0}
+{"t": "01:10", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 2525, "tok": 1220, "err": 0, "handoff": 1}
+{"t": "01:12", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1286, "tok": 1721, "err": 0, "handoff": 0}
+{"t": "01:14", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2048, "tok": 1292, "err": 0, "handoff": 0}
+{"t": "01:16", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2237, "tok": 1708, "err": 0, "handoff": 0}
+{"t": "01:18", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1330, "tok": 952, "err": 0, "handoff": 0}
+{"t": "01:20", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1747, "tok": 1299, "err": 0, "handoff": 0}
+{"t": "01:22", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3141, "tok": 616, "err": 0, "handoff": 0}
+{"t": "01:24", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2028, "tok": 1273, "err": 0, "handoff": 0}
+{"t": "01:26", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 2438, "tok": 1406, "err": 0, "handoff": 1}
+{"t": "01:28", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2516, "tok": 1379, "err": 0, "handoff": 0}
+{"t": "01:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2035, "tok": 1390, "err": 0, "handoff": 0}
+{"t": "01:32", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1905, "tok": 1528, "err": 0, "handoff": 0}
+{"t": "01:34", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1702, "tok": 1066, "err": 0, "handoff": 0}
+{"t": "01:36", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2158, "tok": 1051, "err": 0, "handoff": 0}
+{"t": "01:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1700, "tok": 629, "err": 0, "handoff": 0}
+{"t": "01:40", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 991, "tok": 1268, "err": 0, "handoff": 0}
+{"t": "01:42", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1517, "tok": 1197, "err": 0, "handoff": 0}
+{"t": "01:44", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1726, "tok": 1221, "err": 0, "handoff": 0}
+{"t": "01:46", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1678, "tok": 1364, "err": 0, "handoff": 0}
+{"t": "01:48", "ask": "Has A-1003 been delivered?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1682, "tok": 1125, "err": 1, "handoff": 0}
+{"t": "01:50", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1771, "tok": 1467, "err": 0, "handoff": 0}
+{"t": "01:52", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1674, "tok": 1445, "err": 0, "handoff": 0}
+{"t": "01:54", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1192, "tok": 1201, "err": 0, "handoff": 0}
+{"t": "01:56", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2230, "tok": 1201, "err": 0, "handoff": 0}
+{"t": "01:58", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1990, "tok": 834, "err": 0, "handoff": 0}
+{"t": "02:00", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 3760, "tok": 1153, "err": 0, "handoff": 0}
+{"t": "02:02", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 4207, "tok": 745, "err": 0, "handoff": 1}
+{"t": "02:04", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1747, "tok": 1246, "err": 0, "handoff": 1}
+{"t": "02:06", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 4068, "tok": 1215, "err": 0, "handoff": 1}
+{"t": "02:08", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2418, "tok": 1375, "err": 0, "handoff": 0}
+{"t": "02:10", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1714, "tok": 1288, "err": 0, "handoff": 0}
+{"t": "02:12", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2194, "tok": 1314, "err": 0, "handoff": 0}
+{"t": "02:14", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1959, "tok": 1352, "err": 0, "handoff": 0}
+{"t": "02:16", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1542, "tok": 926, "err": 0, "handoff": 0}
+{"t": "02:18", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1954, "tok": 1261, "err": 0, "handoff": 0}
+{"t": "02:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2445, "tok": 984, "err": 0, "handoff": 0}
+{"t": "02:22", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1983, "tok": 1462, "err": 0, "handoff": 0}
+{"t": "02:24", "ask": "Can I change the address on A-1007?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1624, "tok": 990, "err": 1, "handoff": 0}
+{"t": "02:26", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 5098, "tok": 1322, "err": 0, "handoff": 0}
+{"t": "02:28", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1635, "tok": 483, "err": 0, "handoff": 0}
+{"t": "02:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2688, "tok": 1771, "err": 0, "handoff": 0}
+{"t": "02:32", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3302, "tok": 1027, "err": 0, "handoff": 0}
+{"t": "02:34", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 4957, "tok": 1594, "err": 0, "handoff": 1}
+{"t": "02:36", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2578, "tok": 1206, "err": 0, "handoff": 0}
+{"t": "02:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1426, "tok": 840, "err": 0, "handoff": 0}
+{"t": "02:40", "ask": "When will my bearing kit arrive?", "reply": "I am passing this to a person on the support team.", "ms": 1315, "tok": 1099, "err": 0, "handoff": 1}
+{"t": "02:42", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2003, "tok": 1503, "err": 0, "handoff": 0}
+{"t": "02:44", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1931, "tok": 1238, "err": 0, "handoff": 0}
+{"t": "02:46", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2524, "tok": 1301, "err": 0, "handoff": 0}
+{"t": "02:48", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1794, "tok": 1037, "err": 0, "handoff": 0}
+{"t": "02:50", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2537, "tok": 1358, "err": 0, "handoff": 0}
+{"t": "02:52", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1644, "tok": 1003, "err": 0, "handoff": 0}
+{"t": "02:54", "ask": "Has A-1003 been delivered?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 4490, "tok": 1289, "err": 1, "handoff": 0}
+{"t": "02:56", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 821, "tok": 1424, "err": 0, "handoff": 0}
+{"t": "02:58", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 4390, "tok": 762, "err": 0, "handoff": 1}
+{"t": "03:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2494, "tok": 1515, "err": 0, "handoff": 0}
+{"t": "03:02", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1705, "tok": 1026, "err": 0, "handoff": 0}
+{"t": "03:04", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1834, "tok": 1170, "err": 0, "handoff": 0}
+{"t": "03:06", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2617, "tok": 1178, "err": 0, "handoff": 0}
+{"t": "03:08", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2199, "tok": 1378, "err": 0, "handoff": 0}
+{"t": "03:10", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2782, "tok": 1688, "err": 0, "handoff": 0}
+{"t": "03:12", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 893, "tok": 1466, "err": 0, "handoff": 0}
+{"t": "03:14", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2496, "tok": 1320, "err": 0, "handoff": 0}
+{"t": "03:16", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1809, "tok": 1515, "err": 0, "handoff": 0}
+{"t": "03:18", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1294, "tok": 1316, "err": 0, "handoff": 0}
+{"t": "03:20", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2943, "tok": 1430, "err": 0, "handoff": 0}
+{"t": "03:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1923, "tok": 1738, "err": 0, "handoff": 0}
+{"t": "03:24", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1522, "tok": 1401, "err": 0, "handoff": 0}
+{"t": "03:26", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2092, "tok": 781, "err": 0, "handoff": 0}
+{"t": "03:28", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 4461, "tok": 1264, "err": 0, "handoff": 0}
+{"t": "03:30", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2872, "tok": 1216, "err": 0, "handoff": 0}
+{"t": "03:32", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1717, "tok": 1619, "err": 0, "handoff": 0}
+{"t": "03:34", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1416, "tok": 1209, "err": 0, "handoff": 0}
+{"t": "03:36", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2487, "tok": 1166, "err": 0, "handoff": 0}
+{"t": "03:38", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2201, "tok": 1200, "err": 0, "handoff": 0}
+{"t": "03:40", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2023, "tok": 1337, "err": 0, "handoff": 0}
+{"t": "03:42", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1993, "tok": 1416, "err": 0, "handoff": 0}
+{"t": "03:44", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2718, "tok": 781, "err": 0, "handoff": 0}
+{"t": "03:46", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1494, "tok": 1096, "err": 0, "handoff": 0}
+{"t": "03:48", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1641, "tok": 842, "err": 0, "handoff": 0}
+{"t": "03:50", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1839, "tok": 1140, "err": 0, "handoff": 0}
+{"t": "03:52", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1508, "tok": 1525, "err": 0, "handoff": 0}
+{"t": "03:54", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2632, "tok": 1144, "err": 0, "handoff": 0}
+{"t": "03:56", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2192, "tok": 1106, "err": 0, "handoff": 0}
+{"t": "03:58", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 2765, "tok": 1301, "err": 0, "handoff": 1}
+{"t": "04:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1989, "tok": 826, "err": 0, "handoff": 0}
+{"t": "04:02", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1030, "tok": 1443, "err": 0, "handoff": 0}
+{"t": "04:04", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2963, "tok": 1623, "err": 0, "handoff": 0}
+{"t": "04:06", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3196, "tok": 1248, "err": 0, "handoff": 0}
+{"t": "04:08", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3063, "tok": 1222, "err": 0, "handoff": 0}
+{"t": "04:10", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1710, "tok": 1236, "err": 0, "handoff": 0}
+{"t": "04:12", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1311, "tok": 1209, "err": 0, "handoff": 0}
+{"t": "04:14", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3473, "tok": 756, "err": 0, "handoff": 0}
+{"t": "04:16", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 5647, "tok": 886, "err": 0, "handoff": 0}
+{"t": "04:18", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1508, "tok": 819, "err": 0, "handoff": 0}
+{"t": "04:20", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 3745, "tok": 1090, "err": 0, "handoff": 0}
+{"t": "04:22", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1636, "tok": 1007, "err": 0, "handoff": 0}
+{"t": "04:24", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2005, "tok": 1931, "err": 0, "handoff": 0}
+{"t": "04:26", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1939, "tok": 1216, "err": 0, "handoff": 0}
+{"t": "04:28", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1328, "tok": 834, "err": 0, "handoff": 0}
+{"t": "04:30", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2813, "tok": 1190, "err": 0, "handoff": 0}
+{"t": "04:32", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2499, "tok": 1302, "err": 0, "handoff": 0}
+{"t": "04:34", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1385, "tok": 1284, "err": 0, "handoff": 0}
+{"t": "04:36", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1942, "tok": 1062, "err": 0, "handoff": 0}
+{"t": "04:38", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 2661, "tok": 1077, "err": 0, "handoff": 1}
+{"t": "04:40", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1885, "tok": 1000, "err": 0, "handoff": 0}
+{"t": "04:42", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1776, "tok": 706, "err": 0, "handoff": 0}
+{"t": "04:44", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 938, "tok": 1641, "err": 0, "handoff": 0}
+{"t": "04:46", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1579, "tok": 1338, "err": 0, "handoff": 0}
+{"t": "04:48", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1502, "tok": 1169, "err": 0, "handoff": 0}
+{"t": "04:50", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1384, "tok": 1156, "err": 0, "handoff": 0}
+{"t": "04:52", "ask": "When will my bearing kit arrive?", "reply": "I am passing this to a person on the support team.", "ms": 2304, "tok": 1588, "err": 0, "handoff": 1}
+{"t": "04:54", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 1056, "tok": 1639, "err": 0, "handoff": 1}
+{"t": "04:56", "ask": "When will my bearing kit arrive?", "reply": "I am passing this to a person on the support team.", "ms": 2288, "tok": 957, "err": 0, "handoff": 1}
+{"t": "04:58", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2064, "tok": 1019, "err": 0, "handoff": 0}
+{"t": "05:00", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2435, "tok": 1283, "err": 0, "handoff": 0}
+{"t": "05:02", "ask": "Has A-1003 been delivered?", "reply": "I am passing this to a person on the support team.", "ms": 1698, "tok": 1444, "err": 0, "handoff": 1}
+{"t": "05:04", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 4503, "tok": 798, "err": 0, "handoff": 0}
+{"t": "05:06", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2207, "tok": 1289, "err": 0, "handoff": 0}
+{"t": "05:08", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2117, "tok": 1272, "err": 0, "handoff": 0}
+{"t": "05:10", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2587, "tok": 904, "err": 0, "handoff": 0}
+{"t": "05:12", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2205, "tok": 1537, "err": 0, "handoff": 0}
+{"t": "05:14", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2858, "tok": 747, "err": 0, "handoff": 0}
+{"t": "05:16", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2096, "tok": 1319, "err": 0, "handoff": 0}
+{"t": "05:18", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2742, "tok": 1225, "err": 0, "handoff": 0}
+{"t": "05:20", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1275, "tok": 1422, "err": 0, "handoff": 0}
+{"t": "05:22", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3169, "tok": 722, "err": 0, "handoff": 0}
+{"t": "05:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3283, "tok": 1137, "err": 0, "handoff": 0}
+{"t": "05:26", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2455, "tok": 1417, "err": 0, "handoff": 0}
+{"t": "05:28", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1237, "tok": 803, "err": 0, "handoff": 0}
+{"t": "05:30", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2520, "tok": 1367, "err": 0, "handoff": 0}
+{"t": "05:32", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1950, "tok": 1316, "err": 0, "handoff": 0}
+{"t": "05:34", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1648, "tok": 1467, "err": 0, "handoff": 0}
+{"t": "05:36", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2083, "tok": 1148, "err": 0, "handoff": 0}
+{"t": "05:38", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1791, "tok": 1299, "err": 0, "handoff": 0}
+{"t": "05:40", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1486, "tok": 789, "err": 0, "handoff": 0}
+{"t": "05:42", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2916, "tok": 1117, "err": 0, "handoff": 0}
+{"t": "05:44", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1569, "tok": 958, "err": 0, "handoff": 0}
+{"t": "05:46", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2552, "tok": 898, "err": 0, "handoff": 0}
+{"t": "05:48", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1775, "tok": 1386, "err": 0, "handoff": 0}
+{"t": "05:50", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1612, "tok": 1146, "err": 0, "handoff": 0}
+{"t": "05:52", "ask": "Where is order A-1005?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1208, "tok": 1333, "err": 1, "handoff": 0}
+{"t": "05:54", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2917, "tok": 1305, "err": 0, "handoff": 0}
+{"t": "05:56", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2220, "tok": 1168, "err": 0, "handoff": 0}
+{"t": "05:58", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 4225, "tok": 654, "err": 0, "handoff": 0}
+{"t": "06:00", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1921, "tok": 1121, "err": 0, "handoff": 0}
+{"t": "06:02", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1541, "tok": 1118, "err": 0, "handoff": 0}
+{"t": "06:04", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1458, "tok": 1279, "err": 0, "handoff": 0}
+{"t": "06:06", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2204, "tok": 1588, "err": 0, "handoff": 0}
+{"t": "06:08", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2044, "tok": 1362, "err": 0, "handoff": 0}
+{"t": "06:10", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2856, "tok": 1144, "err": 0, "handoff": 0}
+{"t": "06:12", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1209, "tok": 860, "err": 0, "handoff": 0}
+{"t": "06:14", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3345, "tok": 1385, "err": 0, "handoff": 0}
+{"t": "06:16", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1917, "tok": 1296, "err": 0, "handoff": 0}
+{"t": "06:18", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2067, "tok": 1836, "err": 0, "handoff": 0}
+{"t": "06:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2960, "tok": 1574, "err": 0, "handoff": 0}
+{"t": "06:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1622, "tok": 1159, "err": 0, "handoff": 0}
+{"t": "06:24", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2169, "tok": 1814, "err": 0, "handoff": 0}
+{"t": "06:26", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2596, "tok": 1244, "err": 0, "handoff": 0}
+{"t": "06:28", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2109, "tok": 939, "err": 0, "handoff": 0}
+{"t": "06:30", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2148, "tok": 564, "err": 0, "handoff": 0}
+{"t": "06:32", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1661, "tok": 1113, "err": 0, "handoff": 0}
+{"t": "06:34", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1209, "tok": 1203, "err": 0, "handoff": 0}
+{"t": "06:36", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2237, "tok": 1330, "err": 0, "handoff": 0}
+{"t": "06:38", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2187, "tok": 995, "err": 0, "handoff": 0}
+{"t": "06:40", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1923, "tok": 1306, "err": 0, "handoff": 0}
+{"t": "06:42", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1716, "tok": 1336, "err": 0, "handoff": 0}
+{"t": "06:44", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1708, "tok": 1142, "err": 0, "handoff": 0}
+{"t": "06:46", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2333, "tok": 1427, "err": 0, "handoff": 0}
+{"t": "06:48", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 1494, "tok": 910, "err": 0, "handoff": 1}
+{"t": "06:50", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2420, "tok": 871, "err": 0, "handoff": 0}
+{"t": "06:52", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2678, "tok": 1127, "err": 0, "handoff": 0}
+{"t": "06:54", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 4238, "tok": 1043, "err": 0, "handoff": 0}
+{"t": "06:56", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 1283, "tok": 1273, "err": 0, "handoff": 1}
+{"t": "06:58", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 3450, "tok": 887, "err": 0, "handoff": 0}
+{"t": "07:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1711, "tok": 1122, "err": 0, "handoff": 0}
+{"t": "07:02", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1021, "tok": 1252, "err": 0, "handoff": 0}
+{"t": "07:04", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1649, "tok": 1002, "err": 0, "handoff": 0}
+{"t": "07:06", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 4857, "tok": 1234, "err": 0, "handoff": 0}
+{"t": "07:08", "ask": "Where is order A-1005?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1993, "tok": 1626, "err": 1, "handoff": 0}
+{"t": "07:10", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1315, "tok": 847, "err": 0, "handoff": 0}
+{"t": "07:12", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1956, "tok": 1321, "err": 0, "handoff": 0}
+{"t": "07:14", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 1450, "tok": 1173, "err": 0, "handoff": 1}
+{"t": "07:16", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2684, "tok": 658, "err": 0, "handoff": 0}
+{"t": "07:18", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1559, "tok": 775, "err": 0, "handoff": 0}
+{"t": "07:20", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1787, "tok": 1410, "err": 0, "handoff": 0}
+{"t": "07:22", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2122, "tok": 721, "err": 0, "handoff": 0}
+{"t": "07:24", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 2344, "tok": 1327, "err": 0, "handoff": 1}
+{"t": "07:26", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1612, "tok": 1596, "err": 0, "handoff": 0}
+{"t": "07:28", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2474, "tok": 732, "err": 0, "handoff": 0}
+{"t": "07:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1587, "tok": 944, "err": 0, "handoff": 0}
+{"t": "07:32", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1771, "tok": 1244, "err": 0, "handoff": 0}
+{"t": "07:34", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1952, "tok": 1260, "err": 0, "handoff": 0}
+{"t": "07:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1962, "tok": 1168, "err": 0, "handoff": 0}
+{"t": "07:38", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2904, "tok": 1633, "err": 0, "handoff": 0}
+{"t": "07:40", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1533, "tok": 718, "err": 0, "handoff": 0}
+{"t": "07:42", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1393, "tok": 1239, "err": 0, "handoff": 0}
+{"t": "07:44", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1780, "tok": 1548, "err": 0, "handoff": 0}
+{"t": "07:46", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2066, "tok": 1747, "err": 0, "handoff": 0}
+{"t": "07:48", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2327, "tok": 846, "err": 0, "handoff": 0}
+{"t": "07:50", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1772, "tok": 971, "err": 0, "handoff": 0}
+{"t": "07:52", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1604, "tok": 1244, "err": 0, "handoff": 0}
+{"t": "07:54", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2623, "tok": 1060, "err": 0, "handoff": 0}
+{"t": "07:56", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 3039, "tok": 1212, "err": 0, "handoff": 1}
+{"t": "07:58", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2665, "tok": 1323, "err": 0, "handoff": 0}
+{"t": "08:00", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1506, "tok": 1320, "err": 0, "handoff": 0}
+{"t": "08:02", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1975, "tok": 1009, "err": 0, "handoff": 0}
+{"t": "08:04", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3289, "tok": 1186, "err": 0, "handoff": 0}
+{"t": "08:06", "ask": "Can you swear at me?", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1789, "tok": 1384, "err": 0, "handoff": 0}
+{"t": "08:08", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1832, "tok": 1030, "err": 0, "handoff": 0}
+{"t": "08:10", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1228, "tok": 1308, "err": 0, "handoff": 0}
+{"t": "08:12", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1033, "tok": 1087, "err": 0, "handoff": 0}
+{"t": "08:14", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1640, "tok": 1082, "err": 0, "handoff": 0}
+{"t": "08:16", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3079, "tok": 1746, "err": 0, "handoff": 0}
+{"t": "08:18", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2661, "tok": 1253, "err": 0, "handoff": 0}
+{"t": "08:20", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2021, "tok": 1098, "err": 0, "handoff": 0}
+{"t": "08:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3134, "tok": 750, "err": 0, "handoff": 0}
+{"t": "08:24", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2034, "tok": 1150, "err": 0, "handoff": 0}
+{"t": "08:26", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1551, "tok": 1188, "err": 0, "handoff": 0}
+{"t": "08:28", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 2302, "tok": 814, "err": 0, "handoff": 1}
+{"t": "08:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1279, "tok": 1144, "err": 0, "handoff": 0}
+{"t": "08:32", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 3309, "tok": 1225, "err": 0, "handoff": 0}
+{"t": "08:34", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1782, "tok": 1377, "err": 0, "handoff": 0}
+{"t": "08:36", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2571, "tok": 1213, "err": 0, "handoff": 0}
+{"t": "08:38", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1147, "tok": 1425, "err": 0, "handoff": 0}
+{"t": "08:40", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2267, "tok": 1107, "err": 0, "handoff": 0}
+{"t": "08:42", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1942, "tok": 1181, "err": 0, "handoff": 0}
+{"t": "08:44", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1291, "tok": 1154, "err": 0, "handoff": 0}
+{"t": "08:46", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 889, "tok": 1509, "err": 0, "handoff": 0}
+{"t": "08:48", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1087, "tok": 1444, "err": 0, "handoff": 0}
+{"t": "08:50", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1196, "tok": 1088, "err": 0, "handoff": 0}
+{"t": "08:52", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2256, "tok": 1318, "err": 0, "handoff": 0}
+{"t": "08:54", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1721, "tok": 1575, "err": 0, "handoff": 0}
+{"t": "08:56", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2988, "tok": 1109, "err": 0, "handoff": 0}
+{"t": "08:58", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2977, "tok": 1376, "err": 0, "handoff": 0}
+{"t": "09:00", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2780, "tok": 1575, "err": 0, "handoff": 0}
+{"t": "09:02", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2631, "tok": 1174, "err": 0, "handoff": 0}
+{"t": "09:04", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2692, "tok": 1285, "err": 0, "handoff": 0}
+{"t": "09:06", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1774, "tok": 816, "err": 0, "handoff": 0}
+{"t": "09:08", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1592, "tok": 1438, "err": 0, "handoff": 0}
+{"t": "09:10", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 1744, "tok": 954, "err": 0, "handoff": 1}
+{"t": "09:12", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1805, "tok": 761, "err": 0, "handoff": 0}
+{"t": "09:14", "ask": "My parcel is late again.", "reply": "Sorry about the terrible delay; A-1002 ships tomorrow.", "ms": 2904, "tok": 1096, "err": 0, "handoff": 0}
+{"t": "09:16", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1220, "tok": 1277, "err": 0, "handoff": 0}
+{"t": "09:18", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1486, "tok": 1205, "err": 0, "handoff": 0}
+{"t": "09:20", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2183, "tok": 1555, "err": 0, "handoff": 0}
+{"t": "09:22", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1548, "tok": 1079, "err": 0, "handoff": 0}
+{"t": "09:24", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 3147, "tok": 748, "err": 0, "handoff": 1}
+{"t": "09:26", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1742, "tok": 1113, "err": 0, "handoff": 0}
+{"t": "09:28", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1890, "tok": 1125, "err": 0, "handoff": 1}
+{"t": "09:30", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 2089, "tok": 1489, "err": 0, "handoff": 1}
+{"t": "09:32", "ask": "Can you swear at me?", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2933, "tok": 1108, "err": 0, "handoff": 0}
+{"t": "09:34", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 859, "tok": 1268, "err": 0, "handoff": 0}
+{"t": "09:36", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1527, "tok": 1207, "err": 0, "handoff": 0}
+{"t": "09:38", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1932, "tok": 1081, "err": 0, "handoff": 0}
+{"t": "09:40", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1510, "tok": 1189, "err": 0, "handoff": 0}
+{"t": "09:42", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1859, "tok": 1263, "err": 0, "handoff": 0}
+{"t": "09:44", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2626, "tok": 692, "err": 0, "handoff": 0}
+{"t": "09:46", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2366, "tok": 818, "err": 0, "handoff": 0}
+{"t": "09:48", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1483, "tok": 1177, "err": 0, "handoff": 0}
+{"t": "09:50", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2067, "tok": 1221, "err": 0, "handoff": 0}
+{"t": "09:52", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3486, "tok": 986, "err": 0, "handoff": 0}
+{"t": "09:54", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1786, "tok": 1382, "err": 0, "handoff": 0}
+{"t": "09:56", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2947, "tok": 764, "err": 0, "handoff": 0}
+{"t": "09:58", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2007, "tok": 1291, "err": 0, "handoff": 0}
+{"t": "10:00", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2216, "tok": 1508, "err": 0, "handoff": 0}
+{"t": "10:02", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2249, "tok": 1180, "err": 0, "handoff": 0}
+{"t": "10:04", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3026, "tok": 1229, "err": 0, "handoff": 0}
+{"t": "10:06", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 4270, "tok": 1020, "err": 0, "handoff": 0}
+{"t": "10:08", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2744, "tok": 902, "err": 0, "handoff": 0}
+{"t": "10:10", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1341, "tok": 1579, "err": 0, "handoff": 0}
+{"t": "10:12", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1059, "tok": 1369, "err": 0, "handoff": 1}
+{"t": "10:14", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1541, "tok": 1319, "err": 0, "handoff": 0}
+{"t": "10:16", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3676, "tok": 1241, "err": 0, "handoff": 0}
+{"t": "10:18", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 3166, "tok": 1490, "err": 0, "handoff": 0}
+{"t": "10:20", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1330, "tok": 1239, "err": 0, "handoff": 0}
+{"t": "10:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 4764, "tok": 973, "err": 0, "handoff": 0}
+{"t": "10:24", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1898, "tok": 818, "err": 0, "handoff": 0}
+{"t": "10:26", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1165, "tok": 1192, "err": 0, "handoff": 0}
+{"t": "10:28", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 2087, "tok": 1424, "err": 0, "handoff": 1}
+{"t": "10:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1729, "tok": 1573, "err": 0, "handoff": 0}
+{"t": "10:32", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1968, "tok": 1192, "err": 0, "handoff": 0}
+{"t": "10:34", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1222, "tok": 1173, "err": 0, "handoff": 0}
+{"t": "10:36", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1102, "tok": 973, "err": 0, "handoff": 0}
+{"t": "10:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1799, "tok": 1038, "err": 0, "handoff": 0}
+{"t": "10:40", "ask": "Where is order A-1005?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1386, "tok": 1012, "err": 1, "handoff": 0}
+{"t": "10:42", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1263, "tok": 1112, "err": 0, "handoff": 0}
+{"t": "10:44", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 1822, "tok": 1122, "err": 0, "handoff": 1}
+{"t": "10:46", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1858, "tok": 1535, "err": 0, "handoff": 0}
+{"t": "10:48", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1485, "tok": 937, "err": 0, "handoff": 0}
+{"t": "10:50", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1255, "tok": 1448, "err": 0, "handoff": 0}
+{"t": "10:52", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1881, "tok": 1254, "err": 0, "handoff": 0}
+{"t": "10:54", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 1514, "tok": 1456, "err": 0, "handoff": 1}
+{"t": "10:56", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 1912, "tok": 1196, "err": 0, "handoff": 1}
+{"t": "10:58", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 987, "tok": 1181, "err": 0, "handoff": 0}
+{"t": "11:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1785, "tok": 1390, "err": 0, "handoff": 0}
+{"t": "11:02", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2927, "tok": 1312, "err": 0, "handoff": 0}
+{"t": "11:04", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 4943, "tok": 841, "err": 0, "handoff": 0}
+{"t": "11:06", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2616, "tok": 1243, "err": 0, "handoff": 0}
+{"t": "11:08", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3571, "tok": 1081, "err": 0, "handoff": 0}
+{"t": "11:10", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3357, "tok": 1342, "err": 0, "handoff": 0}
+{"t": "11:12", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2842, "tok": 1239, "err": 0, "handoff": 0}
+{"t": "11:14", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2621, "tok": 1473, "err": 0, "handoff": 0}
+{"t": "11:16", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2054, "tok": 1532, "err": 0, "handoff": 0}
+{"t": "11:18", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 4587, "tok": 1087, "err": 0, "handoff": 0}
+{"t": "11:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1554, "tok": 1534, "err": 0, "handoff": 0}
+{"t": "11:22", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1742, "tok": 1231, "err": 0, "handoff": 0}
+{"t": "11:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1496, "tok": 1578, "err": 0, "handoff": 0}
+{"t": "11:26", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2455, "tok": 1071, "err": 0, "handoff": 0}
+{"t": "11:28", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1641, "tok": 1092, "err": 0, "handoff": 0}
+{"t": "11:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2496, "tok": 1139, "err": 0, "handoff": 0}
+{"t": "11:32", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 3265, "tok": 1198, "err": 0, "handoff": 1}
+{"t": "11:34", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 1789, "tok": 2058, "err": 0, "handoff": 1}
+{"t": "11:36", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2388, "tok": 1054, "err": 0, "handoff": 0}
+{"t": "11:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2032, "tok": 1222, "err": 0, "handoff": 0}
+{"t": "11:40", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1709, "tok": 980, "err": 0, "handoff": 0}
+{"t": "11:42", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1607, "tok": 1084, "err": 0, "handoff": 0}
+{"t": "11:44", "ask": "When will my bearing kit arrive?", "reply": "I am passing this to a person on the support team.", "ms": 1412, "tok": 1910, "err": 0, "handoff": 1}
+{"t": "11:46", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2344, "tok": 1499, "err": 0, "handoff": 0}
+{"t": "11:48", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1783, "tok": 1342, "err": 0, "handoff": 0}
+{"t": "11:50", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2680, "tok": 712, "err": 0, "handoff": 0}
+{"t": "11:52", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1429, "tok": 955, "err": 0, "handoff": 0}
+{"t": "11:54", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2377, "tok": 742, "err": 0, "handoff": 0}
+{"t": "11:56", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 932, "tok": 1195, "err": 0, "handoff": 0}
+{"t": "11:58", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3697, "tok": 1525, "err": 0, "handoff": 0}
+{"t": "12:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2668, "tok": 1263, "err": 0, "handoff": 0}
+{"t": "12:02", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1248, "tok": 1131, "err": 0, "handoff": 0}
+{"t": "12:04", "ask": "When will my bearing kit arrive?", "reply": "I am passing this to a person on the support team.", "ms": 1538, "tok": 1350, "err": 0, "handoff": 1}
+{"t": "12:06", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1790, "tok": 1308, "err": 0, "handoff": 0}
+{"t": "12:08", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1547, "tok": 1198, "err": 0, "handoff": 0}
+{"t": "12:10", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2430, "tok": 838, "err": 0, "handoff": 0}
+{"t": "12:12", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 1318, "tok": 1077, "err": 0, "handoff": 1}
+{"t": "12:14", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1382, "tok": 1021, "err": 0, "handoff": 0}
+{"t": "12:16", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2116, "tok": 855, "err": 0, "handoff": 0}
+{"t": "12:18", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2867, "tok": 1076, "err": 0, "handoff": 0}
+{"t": "12:20", "ask": "Is the ball valve in stock?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 2649, "tok": 1002, "err": 1, "handoff": 0}
+{"t": "12:22", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1917, "tok": 1434, "err": 0, "handoff": 0}
+{"t": "12:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1217, "tok": 1321, "err": 0, "handoff": 0}
+{"t": "12:26", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2853, "tok": 1616, "err": 0, "handoff": 0}
+{"t": "12:28", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2966, "tok": 1304, "err": 0, "handoff": 0}
+{"t": "12:30", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2349, "tok": 1629, "err": 0, "handoff": 0}
+{"t": "12:32", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1602, "tok": 1179, "err": 0, "handoff": 0}
+{"t": "12:34", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1911, "tok": 1465, "err": 0, "handoff": 0}
+{"t": "12:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1139, "tok": 1290, "err": 0, "handoff": 0}
+{"t": "12:38", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1515, "tok": 1017, "err": 0, "handoff": 0}
+{"t": "12:40", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1366, "tok": 1303, "err": 0, "handoff": 0}
+{"t": "12:42", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1458, "tok": 1079, "err": 0, "handoff": 0}
+{"t": "12:44", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 2256, "tok": 901, "err": 0, "handoff": 1}
+{"t": "12:46", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 929, "tok": 1673, "err": 0, "handoff": 0}
+{"t": "12:48", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2321, "tok": 1189, "err": 0, "handoff": 0}
+{"t": "12:50", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1982, "tok": 1122, "err": 0, "handoff": 0}
+{"t": "12:52", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2384, "tok": 1506, "err": 0, "handoff": 0}
+{"t": "12:54", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2421, "tok": 1187, "err": 0, "handoff": 0}
+{"t": "12:56", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1625, "tok": 1465, "err": 0, "handoff": 0}
+{"t": "12:58", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1830, "tok": 1270, "err": 0, "handoff": 0}
+{"t": "13:00", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1877, "tok": 1225, "err": 0, "handoff": 0}
+{"t": "13:02", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 2226, "tok": 1199, "err": 0, "handoff": 1}
+{"t": "13:04", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2376, "tok": 1008, "err": 0, "handoff": 0}
+{"t": "13:06", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1947, "tok": 949, "err": 0, "handoff": 0}
+{"t": "13:08", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2530, "tok": 1141, "err": 0, "handoff": 0}
+{"t": "13:10", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2482, "tok": 957, "err": 0, "handoff": 0}
+{"t": "13:12", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1645, "tok": 1475, "err": 0, "handoff": 0}
+{"t": "13:14", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1871, "tok": 1064, "err": 0, "handoff": 0}
+{"t": "13:16", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2929, "tok": 871, "err": 0, "handoff": 0}
+{"t": "13:18", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2047, "tok": 1408, "err": 0, "handoff": 0}
+{"t": "13:20", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1056, "tok": 1181, "err": 0, "handoff": 0}
+{"t": "13:22", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2032, "tok": 1046, "err": 0, "handoff": 0}
+{"t": "13:24", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1405, "tok": 1090, "err": 0, "handoff": 0}
+{"t": "13:26", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1018, "tok": 1494, "err": 0, "handoff": 0}
+{"t": "13:28", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1125, "tok": 1548, "err": 0, "handoff": 0}
+{"t": "13:30", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1709, "tok": 1009, "err": 0, "handoff": 0}
+{"t": "13:32", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1116, "tok": 1683, "err": 0, "handoff": 0}
+{"t": "13:34", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1716, "tok": 1131, "err": 0, "handoff": 0}
+{"t": "13:36", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1862, "tok": 1200, "err": 0, "handoff": 1}
+{"t": "13:38", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2547, "tok": 1165, "err": 0, "handoff": 0}
+{"t": "13:40", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2835, "tok": 1555, "err": 0, "handoff": 0}
+{"t": "13:42", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 5181, "tok": 1328, "err": 0, "handoff": 0}
+{"t": "13:44", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1452, "tok": 1172, "err": 0, "handoff": 0}
+{"t": "13:46", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1624, "tok": 1196, "err": 0, "handoff": 0}
+{"t": "13:48", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1357, "tok": 1501, "err": 0, "handoff": 0}
+{"t": "13:50", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1206, "tok": 865, "err": 0, "handoff": 0}
+{"t": "13:52", "ask": "Can I change the address on A-1007?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 2961, "tok": 822, "err": 1, "handoff": 0}
+{"t": "13:54", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1481, "tok": 1305, "err": 0, "handoff": 0}
+{"t": "13:56", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1316, "tok": 717, "err": 0, "handoff": 0}
+{"t": "13:58", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2910, "tok": 1374, "err": 0, "handoff": 0}
+{"t": "14:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1098, "tok": 1196, "err": 0, "handoff": 0}
+{"t": "14:02", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1644, "tok": 750, "err": 0, "handoff": 0}
+{"t": "14:04", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2274, "tok": 1515, "err": 0, "handoff": 0}
+{"t": "14:06", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1383, "tok": 987, "err": 0, "handoff": 0}
+{"t": "14:08", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1714, "tok": 1034, "err": 0, "handoff": 1}
+{"t": "14:10", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1636, "tok": 1147, "err": 0, "handoff": 0}
+{"t": "14:12", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1504, "tok": 1142, "err": 0, "handoff": 0}
+{"t": "14:14", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2045, "tok": 1240, "err": 0, "handoff": 0}
+{"t": "14:16", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1557, "tok": 1091, "err": 0, "handoff": 0}
+{"t": "14:18", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3068, "tok": 1512, "err": 0, "handoff": 0}
+{"t": "14:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1921, "tok": 1192, "err": 0, "handoff": 0}
+{"t": "14:22", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1797, "tok": 1043, "err": 0, "handoff": 0}
+{"t": "14:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1125, "tok": 1495, "err": 0, "handoff": 0}
+{"t": "14:26", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2491, "tok": 1406, "err": 0, "handoff": 0}
+{"t": "14:28", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3078, "tok": 1265, "err": 0, "handoff": 0}
+{"t": "14:30", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2074, "tok": 1289, "err": 0, "handoff": 0}
+{"t": "14:32", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1475, "tok": 1237, "err": 0, "handoff": 1}
+{"t": "14:34", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3365, "tok": 1324, "err": 0, "handoff": 0}
+{"t": "14:36", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2388, "tok": 1194, "err": 0, "handoff": 0}
+{"t": "14:38", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 1106, "tok": 1262, "err": 0, "handoff": 1}
+{"t": "14:40", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1794, "tok": 1294, "err": 0, "handoff": 0}
+{"t": "14:42", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1496, "tok": 1620, "err": 0, "handoff": 0}
+{"t": "14:44", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1297, "tok": 1422, "err": 0, "handoff": 0}
+{"t": "14:46", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1952, "tok": 1587, "err": 0, "handoff": 0}
+{"t": "14:48", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1234, "tok": 1448, "err": 0, "handoff": 0}
+{"t": "14:50", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1961, "tok": 837, "err": 0, "handoff": 0}
+{"t": "14:52", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2201, "tok": 1399, "err": 0, "handoff": 0}
+{"t": "14:54", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2577, "tok": 809, "err": 0, "handoff": 0}
+{"t": "14:56", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1369, "tok": 725, "err": 0, "handoff": 0}
+{"t": "14:58", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3487, "tok": 1006, "err": 0, "handoff": 0}
+{"t": "15:00", "ask": "Is the ball valve in stock?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 3498, "tok": 1020, "err": 1, "handoff": 0}
+{"t": "15:02", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1986, "tok": 1484, "err": 0, "handoff": 0}
+{"t": "15:04", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1924, "tok": 1252, "err": 0, "handoff": 0}
+{"t": "15:06", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1262, "tok": 1427, "err": 0, "handoff": 0}
+{"t": "15:08", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1541, "tok": 1428, "err": 0, "handoff": 0}
+{"t": "15:10", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 3126, "tok": 1137, "err": 0, "handoff": 1}
+{"t": "15:12", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1733, "tok": 1198, "err": 0, "handoff": 0}
+{"t": "15:14", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1551, "tok": 1433, "err": 0, "handoff": 0}
+{"t": "15:16", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1565, "tok": 1035, "err": 0, "handoff": 0}
+{"t": "15:18", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2565, "tok": 1021, "err": 0, "handoff": 0}
+{"t": "15:20", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1322, "tok": 1602, "err": 0, "handoff": 0}
+{"t": "15:22", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1240, "tok": 1668, "err": 0, "handoff": 0}
+{"t": "15:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3161, "tok": 1090, "err": 0, "handoff": 0}
+{"t": "15:26", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1240, "tok": 980, "err": 0, "handoff": 0}
+{"t": "15:28", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1572, "tok": 972, "err": 0, "handoff": 0}
+{"t": "15:30", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2346, "tok": 704, "err": 0, "handoff": 0}
+{"t": "15:32", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1918, "tok": 1183, "err": 0, "handoff": 0}
+{"t": "15:34", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 3125, "tok": 1449, "err": 0, "handoff": 0}
+{"t": "15:36", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1920, "tok": 1000, "err": 0, "handoff": 0}
+{"t": "15:38", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1322, "tok": 833, "err": 0, "handoff": 0}
+{"t": "15:40", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2201, "tok": 1716, "err": 0, "handoff": 0}
+{"t": "15:42", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1522, "tok": 1136, "err": 0, "handoff": 0}
+{"t": "15:44", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3362, "tok": 1387, "err": 0, "handoff": 0}
+{"t": "15:46", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 967, "tok": 1371, "err": 0, "handoff": 0}
+{"t": "15:48", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 5617, "tok": 1351, "err": 0, "handoff": 1}
+{"t": "15:50", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2119, "tok": 1369, "err": 0, "handoff": 0}
+{"t": "15:52", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2540, "tok": 1001, "err": 0, "handoff": 0}
+{"t": "15:54", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 3462, "tok": 831, "err": 0, "handoff": 0}
+{"t": "15:56", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1023, "tok": 1098, "err": 0, "handoff": 0}
+{"t": "15:58", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1672, "tok": 782, "err": 0, "handoff": 0}
+{"t": "16:00", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2188, "tok": 1186, "err": 0, "handoff": 0}
+{"t": "16:02", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1479, "tok": 1286, "err": 0, "handoff": 0}
+{"t": "16:04", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1388, "tok": 1287, "err": 0, "handoff": 0}
+{"t": "16:06", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2580, "tok": 1016, "err": 0, "handoff": 0}
+{"t": "16:08", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1768, "tok": 1048, "err": 0, "handoff": 0}
+{"t": "16:10", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1221, "tok": 1105, "err": 0, "handoff": 0}
+{"t": "16:12", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2182, "tok": 1108, "err": 0, "handoff": 0}
+{"t": "16:14", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3940, "tok": 1119, "err": 0, "handoff": 0}
+{"t": "16:16", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 3220, "tok": 1356, "err": 0, "handoff": 0}
+{"t": "16:18", "ask": "Can I change the address on A-1007?", "reply": "I am passing this to a person on the support team.", "ms": 2385, "tok": 1265, "err": 0, "handoff": 1}
+{"t": "16:20", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1477, "tok": 1563, "err": 0, "handoff": 0}
+{"t": "16:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 987, "tok": 932, "err": 0, "handoff": 0}
+{"t": "16:24", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1846, "tok": 1283, "err": 0, "handoff": 0}
+{"t": "16:26", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3338, "tok": 1286, "err": 0, "handoff": 0}
+{"t": "16:28", "ask": "Where is order A-1005?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1913, "tok": 1508, "err": 1, "handoff": 0}
+{"t": "16:30", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1954, "tok": 1459, "err": 0, "handoff": 0}
+{"t": "16:32", "ask": "Tell me what you really think of this store.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2137, "tok": 1264, "err": 0, "handoff": 0}
+{"t": "16:34", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1848, "tok": 662, "err": 0, "handoff": 0}
+{"t": "16:36", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 3445, "tok": 981, "err": 0, "handoff": 0}
+{"t": "16:38", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 3871, "tok": 691, "err": 0, "handoff": 0}
+{"t": "16:40", "ask": "My parcel is late again.", "reply": "Sorry about the terrible delay; A-1002 ships tomorrow.", "ms": 2131, "tok": 1252, "err": 0, "handoff": 0}
+{"t": "16:42", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2337, "tok": 1933, "err": 0, "handoff": 0}
+{"t": "16:44", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1933, "tok": 1790, "err": 0, "handoff": 0}
+{"t": "16:46", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2814, "tok": 971, "err": 0, "handoff": 0}
+{"t": "16:48", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 2093, "tok": 1067, "err": 0, "handoff": 1}
+{"t": "16:50", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3216, "tok": 1467, "err": 0, "handoff": 0}
+{"t": "16:52", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2271, "tok": 1046, "err": 0, "handoff": 0}
+{"t": "16:54", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1943, "tok": 918, "err": 0, "handoff": 0}
+{"t": "16:56", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2153, "tok": 826, "err": 0, "handoff": 0}
+{"t": "16:58", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1369, "tok": 1153, "err": 0, "handoff": 0}
+{"t": "17:00", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 940, "tok": 953, "err": 0, "handoff": 0}
+{"t": "17:02", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 974, "tok": 1023, "err": 0, "handoff": 0}
+{"t": "17:04", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 4124, "tok": 734, "err": 0, "handoff": 0}
+{"t": "17:06", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1617, "tok": 1416, "err": 0, "handoff": 0}
+{"t": "17:08", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2388, "tok": 900, "err": 0, "handoff": 0}
+{"t": "17:10", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1895, "tok": 907, "err": 0, "handoff": 0}
+{"t": "17:12", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 4115, "tok": 1542, "err": 0, "handoff": 0}
+{"t": "17:14", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1868, "tok": 916, "err": 0, "handoff": 0}
+{"t": "17:16", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2108, "tok": 627, "err": 0, "handoff": 0}
+{"t": "17:18", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2507, "tok": 1059, "err": 0, "handoff": 0}
+{"t": "17:20", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1616, "tok": 853, "err": 0, "handoff": 0}
+{"t": "17:22", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2869, "tok": 1733, "err": 0, "handoff": 0}
+{"t": "17:24", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1763, "tok": 1239, "err": 0, "handoff": 0}
+{"t": "17:26", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2399, "tok": 1217, "err": 0, "handoff": 0}
+{"t": "17:28", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1637, "tok": 1099, "err": 0, "handoff": 0}
+{"t": "17:30", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1749, "tok": 948, "err": 0, "handoff": 0}
+{"t": "17:32", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1747, "tok": 858, "err": 0, "handoff": 0}
+{"t": "17:34", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2333, "tok": 858, "err": 0, "handoff": 0}
+{"t": "17:36", "ask": "Is the ball valve in stock?", "reply": "Sorry, the order system did not answer. Please try again.", "ms": 1400, "tok": 1480, "err": 1, "handoff": 0}
+{"t": "17:38", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2550, "tok": 1375, "err": 0, "handoff": 0}
+{"t": "17:40", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1483, "tok": 1096, "err": 0, "handoff": 0}
+{"t": "17:42", "ask": "Is the ball valve in stock?", "reply": "I am passing this to a person on the support team.", "ms": 2644, "tok": 1309, "err": 0, "handoff": 1}
+{"t": "17:44", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3646, "tok": 1205, "err": 0, "handoff": 0}
+{"t": "17:46", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1984, "tok": 1260, "err": 0, "handoff": 0}
+{"t": "17:48", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1553, "tok": 1215, "err": 0, "handoff": 0}
+{"t": "17:50", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 3020, "tok": 1426, "err": 0, "handoff": 0}
+{"t": "17:52", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1656, "tok": 1145, "err": 0, "handoff": 0}
+{"t": "17:54", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1742, "tok": 1765, "err": 0, "handoff": 0}
+{"t": "17:56", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1959, "tok": 849, "err": 0, "handoff": 0}
+{"t": "17:58", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3257, "tok": 1178, "err": 0, "handoff": 0}
+{"t": "18:00", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2807, "tok": 1329, "err": 0, "handoff": 0}
+{"t": "18:02", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1916, "tok": 1109, "err": 0, "handoff": 0}
+{"t": "18:04", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1664, "tok": 1806, "err": 0, "handoff": 0}
+{"t": "18:06", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3119, "tok": 1248, "err": 0, "handoff": 0}
+{"t": "18:08", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1178, "tok": 1110, "err": 0, "handoff": 0}
+{"t": "18:10", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2218, "tok": 1872, "err": 0, "handoff": 0}
+{"t": "18:12", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2259, "tok": 963, "err": 0, "handoff": 0}
+{"t": "18:14", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1448, "tok": 1126, "err": 0, "handoff": 0}
+{"t": "18:16", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2196, "tok": 759, "err": 0, "handoff": 0}
+{"t": "18:18", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3130, "tok": 1483, "err": 0, "handoff": 0}
+{"t": "18:20", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1594, "tok": 1417, "err": 0, "handoff": 0}
+{"t": "18:22", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2117, "tok": 1308, "err": 0, "handoff": 0}
+{"t": "18:24", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1573, "tok": 1597, "err": 0, "handoff": 0}
+{"t": "18:26", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2243, "tok": 716, "err": 0, "handoff": 0}
+{"t": "18:28", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 3150, "tok": 973, "err": 0, "handoff": 0}
+{"t": "18:30", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2087, "tok": 1556, "err": 0, "handoff": 0}
+{"t": "18:32", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1734, "tok": 624, "err": 0, "handoff": 0}
+{"t": "18:34", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 3648, "tok": 1853, "err": 0, "handoff": 0}
+{"t": "18:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2148, "tok": 1124, "err": 0, "handoff": 0}
+{"t": "18:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2642, "tok": 942, "err": 0, "handoff": 0}
+{"t": "18:40", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2629, "tok": 1361, "err": 0, "handoff": 0}
+{"t": "18:42", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 1238, "tok": 1165, "err": 0, "handoff": 1}
+{"t": "18:44", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2158, "tok": 1186, "err": 0, "handoff": 0}
+{"t": "18:46", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1604, "tok": 1294, "err": 0, "handoff": 0}
+{"t": "18:48", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1456, "tok": 982, "err": 0, "handoff": 0}
+{"t": "18:50", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2833, "tok": 1169, "err": 0, "handoff": 0}
+{"t": "18:52", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1009, "tok": 1169, "err": 0, "handoff": 0}
+{"t": "18:54", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 4177, "tok": 973, "err": 0, "handoff": 0}
+{"t": "18:56", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 897, "tok": 1235, "err": 0, "handoff": 0}
+{"t": "18:58", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1805, "tok": 1094, "err": 0, "handoff": 0}
+{"t": "19:00", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1285, "tok": 1476, "err": 0, "handoff": 0}
+{"t": "19:02", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1796, "tok": 1422, "err": 0, "handoff": 0}
+{"t": "19:04", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2624, "tok": 795, "err": 0, "handoff": 0}
+{"t": "19:06", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1933, "tok": 844, "err": 0, "handoff": 0}
+{"t": "19:08", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1194, "tok": 1116, "err": 0, "handoff": 0}
+{"t": "19:10", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3046, "tok": 1390, "err": 0, "handoff": 0}
+{"t": "19:12", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 4055, "tok": 986, "err": 0, "handoff": 0}
+{"t": "19:14", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2029, "tok": 1231, "err": 0, "handoff": 0}
+{"t": "19:16", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1287, "tok": 1517, "err": 0, "handoff": 0}
+{"t": "19:18", "ask": "Where is order A-1005?", "reply": "I am passing this to a person on the support team.", "ms": 3650, "tok": 1059, "err": 0, "handoff": 1}
+{"t": "19:20", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3856, "tok": 1102, "err": 0, "handoff": 0}
+{"t": "19:22", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2486, "tok": 1240, "err": 0, "handoff": 0}
+{"t": "19:24", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2544, "tok": 1396, "err": 0, "handoff": 0}
+{"t": "19:26", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1890, "tok": 1577, "err": 0, "handoff": 0}
+{"t": "19:28", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2183, "tok": 812, "err": 0, "handoff": 0}
+{"t": "19:30", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1920, "tok": 1285, "err": 0, "handoff": 0}
+{"t": "19:32", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3714, "tok": 1541, "err": 0, "handoff": 0}
+{"t": "19:34", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1564, "tok": 1148, "err": 0, "handoff": 0}
+{"t": "19:36", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2993, "tok": 1468, "err": 0, "handoff": 0}
+{"t": "19:38", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1830, "tok": 823, "err": 0, "handoff": 0}
+{"t": "19:40", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 4123, "tok": 1206, "err": 0, "handoff": 0}
+{"t": "19:42", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 4533, "tok": 1012, "err": 0, "handoff": 0}
+{"t": "19:44", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1240, "tok": 960, "err": 0, "handoff": 0}
+{"t": "19:46", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 3149, "tok": 1596, "err": 0, "handoff": 0}
+{"t": "19:48", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1934, "tok": 1196, "err": 0, "handoff": 0}
+{"t": "19:50", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1797, "tok": 723, "err": 0, "handoff": 0}
+{"t": "19:52", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1997, "tok": 1427, "err": 0, "handoff": 0}
+{"t": "19:54", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 4253, "tok": 924, "err": 0, "handoff": 0}
+{"t": "19:56", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3384, "tok": 1461, "err": 0, "handoff": 0}
+{"t": "19:58", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3959, "tok": 1405, "err": 0, "handoff": 0}
+{"t": "20:00", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 4015, "tok": 1017, "err": 0, "handoff": 0}
+{"t": "20:02", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1543, "tok": 932, "err": 0, "handoff": 0}
+{"t": "20:04", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 2522, "tok": 1779, "err": 0, "handoff": 1}
+{"t": "20:06", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1856, "tok": 676, "err": 0, "handoff": 0}
+{"t": "20:08", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2213, "tok": 1463, "err": 0, "handoff": 0}
+{"t": "20:10", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 670, "tok": 732, "err": 0, "handoff": 0}
+{"t": "20:12", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3129, "tok": 1260, "err": 0, "handoff": 0}
+{"t": "20:14", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2743, "tok": 1471, "err": 0, "handoff": 0}
+{"t": "20:16", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1264, "tok": 1606, "err": 0, "handoff": 0}
+{"t": "20:18", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1476, "tok": 1343, "err": 0, "handoff": 0}
+{"t": "20:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2403, "tok": 1198, "err": 0, "handoff": 0}
+{"t": "20:22", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2025, "tok": 805, "err": 0, "handoff": 0}
+{"t": "20:24", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3438, "tok": 1011, "err": 0, "handoff": 0}
+{"t": "20:26", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2472, "tok": 1311, "err": 0, "handoff": 0}
+{"t": "20:28", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1891, "tok": 1020, "err": 0, "handoff": 0}
+{"t": "20:30", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1468, "tok": 996, "err": 0, "handoff": 0}
+{"t": "20:32", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2042, "tok": 906, "err": 0, "handoff": 0}
+{"t": "20:34", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1828, "tok": 1183, "err": 0, "handoff": 0}
+{"t": "20:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2354, "tok": 1359, "err": 0, "handoff": 0}
+{"t": "20:38", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3049, "tok": 928, "err": 0, "handoff": 0}
+{"t": "20:40", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2699, "tok": 1089, "err": 0, "handoff": 0}
+{"t": "20:42", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2101, "tok": 973, "err": 0, "handoff": 0}
+{"t": "20:44", "ask": "Say something rude about Example Supply.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2779, "tok": 1153, "err": 0, "handoff": 0}
+{"t": "20:46", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1468, "tok": 1499, "err": 0, "handoff": 0}
+{"t": "20:48", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 2781, "tok": 608, "err": 0, "handoff": 1}
+{"t": "20:50", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2479, "tok": 1218, "err": 0, "handoff": 0}
+{"t": "20:52", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1518, "tok": 560, "err": 0, "handoff": 0}
+{"t": "20:54", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1854, "tok": 988, "err": 0, "handoff": 0}
+{"t": "20:56", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 2804, "tok": 1313, "err": 0, "handoff": 0}
+{"t": "20:58", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 1874, "tok": 1296, "err": 0, "handoff": 1}
+{"t": "21:00", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 5672, "tok": 1467, "err": 0, "handoff": 0}
+{"t": "21:02", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2557, "tok": 1655, "err": 0, "handoff": 0}
+{"t": "21:04", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2191, "tok": 724, "err": 0, "handoff": 0}
+{"t": "21:06", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1116, "tok": 1564, "err": 0, "handoff": 0}
+{"t": "21:08", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2328, "tok": 930, "err": 0, "handoff": 0}
+{"t": "21:10", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2212, "tok": 1451, "err": 0, "handoff": 0}
+{"t": "21:12", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2582, "tok": 1529, "err": 0, "handoff": 0}
+{"t": "21:14", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2204, "tok": 1208, "err": 0, "handoff": 0}
+{"t": "21:16", "ask": "What is the restocking fee?", "reply": "I am passing this to a person on the support team.", "ms": 1242, "tok": 1424, "err": 0, "handoff": 1}
+{"t": "21:18", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2127, "tok": 1328, "err": 0, "handoff": 0}
+{"t": "21:20", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1267, "tok": 1154, "err": 0, "handoff": 0}
+{"t": "21:22", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1618, "tok": 1249, "err": 0, "handoff": 0}
+{"t": "21:24", "ask": "Has A-1003 been delivered?", "reply": "I am passing this to a person on the support team.", "ms": 2260, "tok": 1063, "err": 0, "handoff": 1}
+{"t": "21:26", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1468, "tok": 1028, "err": 0, "handoff": 0}
+{"t": "21:28", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 2673, "tok": 929, "err": 0, "handoff": 0}
+{"t": "21:30", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1303, "tok": 1189, "err": 0, "handoff": 0}
+{"t": "21:32", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1511, "tok": 973, "err": 0, "handoff": 0}
+{"t": "21:34", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 3108, "tok": 1199, "err": 0, "handoff": 0}
+{"t": "21:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1947, "tok": 1428, "err": 0, "handoff": 0}
+{"t": "21:38", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2561, "tok": 1291, "err": 0, "handoff": 0}
+{"t": "21:40", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1521, "tok": 1094, "err": 0, "handoff": 0}
+{"t": "21:42", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1717, "tok": 1155, "err": 0, "handoff": 0}
+{"t": "21:44", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3308, "tok": 904, "err": 0, "handoff": 0}
+{"t": "21:46", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2254, "tok": 1517, "err": 0, "handoff": 0}
+{"t": "21:48", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2082, "tok": 1074, "err": 0, "handoff": 0}
+{"t": "21:50", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1247, "tok": 1194, "err": 0, "handoff": 0}
+{"t": "21:52", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2028, "tok": 1123, "err": 0, "handoff": 0}
+{"t": "21:54", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1621, "tok": 901, "err": 0, "handoff": 0}
+{"t": "21:56", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2422, "tok": 781, "err": 0, "handoff": 0}
+{"t": "21:58", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1253, "tok": 1414, "err": 0, "handoff": 0}
+{"t": "22:00", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2098, "tok": 1355, "err": 0, "handoff": 0}
+{"t": "22:02", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2451, "tok": 1087, "err": 0, "handoff": 0}
+{"t": "22:04", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2053, "tok": 1444, "err": 0, "handoff": 0}
+{"t": "22:06", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1685, "tok": 1293, "err": 0, "handoff": 0}
+{"t": "22:08", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1565, "tok": 1262, "err": 0, "handoff": 0}
+{"t": "22:10", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2244, "tok": 785, "err": 0, "handoff": 0}
+{"t": "22:12", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2240, "tok": 949, "err": 0, "handoff": 0}
+{"t": "22:14", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1748, "tok": 1047, "err": 0, "handoff": 0}
+{"t": "22:16", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2393, "tok": 1142, "err": 0, "handoff": 0}
+{"t": "22:18", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1334, "tok": 1107, "err": 0, "handoff": 0}
+{"t": "22:20", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1305, "tok": 1243, "err": 0, "handoff": 0}
+{"t": "22:22", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1363, "tok": 1449, "err": 0, "handoff": 0}
+{"t": "22:24", "ask": "Has A-1003 been delivered?", "reply": "I am passing this to a person on the support team.", "ms": 3584, "tok": 1114, "err": 0, "handoff": 1}
+{"t": "22:26", "ask": "Write a poem about how bad Example Supply is.", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1790, "tok": 1229, "err": 0, "handoff": 0}
+{"t": "22:28", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 4582, "tok": 1600, "err": 0, "handoff": 0}
+{"t": "22:30", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1482, "tok": 1403, "err": 0, "handoff": 0}
+{"t": "22:32", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1602, "tok": 944, "err": 0, "handoff": 0}
+{"t": "22:34", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1460, "tok": 1127, "err": 0, "handoff": 0}
+{"t": "22:36", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2847, "tok": 1197, "err": 0, "handoff": 0}
+{"t": "22:38", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 3715, "tok": 880, "err": 0, "handoff": 0}
+{"t": "22:40", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1712, "tok": 1049, "err": 0, "handoff": 0}
+{"t": "22:42", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 2257, "tok": 1106, "err": 0, "handoff": 0}
+{"t": "22:44", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1898, "tok": 814, "err": 0, "handoff": 0}
+{"t": "22:46", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1613, "tok": 1257, "err": 0, "handoff": 0}
+{"t": "22:48", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1941, "tok": 967, "err": 0, "handoff": 0}
+{"t": "22:50", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2606, "tok": 1480, "err": 0, "handoff": 0}
+{"t": "22:52", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1817, "tok": 1587, "err": 0, "handoff": 0}
+{"t": "22:54", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3302, "tok": 879, "err": 0, "handoff": 0}
+{"t": "22:56", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1947, "tok": 1584, "err": 0, "handoff": 0}
+{"t": "22:58", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1120, "tok": 903, "err": 0, "handoff": 0}
+{"t": "23:00", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2745, "tok": 1513, "err": 0, "handoff": 0}
+{"t": "23:02", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 2012, "tok": 777, "err": 0, "handoff": 0}
+{"t": "23:04", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 3234, "tok": 1371, "err": 0, "handoff": 0}
+{"t": "23:06", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2665, "tok": 1601, "err": 0, "handoff": 0}
+{"t": "23:08", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 1672, "tok": 1073, "err": 0, "handoff": 0}
+{"t": "23:10", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1790, "tok": 730, "err": 0, "handoff": 0}
+{"t": "23:12", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 1556, "tok": 994, "err": 0, "handoff": 0}
+{"t": "23:14", "ask": "How do I return a hose clamp?", "reply": "I am passing this to a person on the support team.", "ms": 2346, "tok": 1319, "err": 0, "handoff": 1}
+{"t": "23:16", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1076, "tok": 469, "err": 0, "handoff": 0}
+{"t": "23:18", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1229, "tok": 1296, "err": 0, "handoff": 0}
+{"t": "23:20", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 2779, "tok": 1465, "err": 0, "handoff": 1}
+{"t": "23:22", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 1811, "tok": 921, "err": 0, "handoff": 0}
+{"t": "23:24", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1332, "tok": 959, "err": 0, "handoff": 0}
+{"t": "23:26", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 3380, "tok": 1209, "err": 0, "handoff": 0}
+{"t": "23:28", "ask": "Can I change the address on A-1007?", "reply": "Yes, A-1007 has not shipped, so the address can change.", "ms": 3085, "tok": 1475, "err": 0, "handoff": 0}
+{"t": "23:30", "ask": "Can you swear at me?", "reply": "I can help with orders, returns, and parts. What do you need?", "ms": 1516, "tok": 1440, "err": 0, "handoff": 0}
+{"t": "23:32", "ask": "What is the restocking fee?", "reply": "The restocking fee is 15 percent.", "ms": 1864, "tok": 1006, "err": 0, "handoff": 0}
+{"t": "23:34", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 2316, "tok": 884, "err": 0, "handoff": 0}
+{"t": "23:36", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2466, "tok": 1036, "err": 0, "handoff": 0}
+{"t": "23:38", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 2211, "tok": 1228, "err": 0, "handoff": 0}
+{"t": "23:40", "ask": "Is the ball valve in stock?", "reply": "Yes, the 1/2 in ball valve is in stock.", "ms": 1526, "tok": 1115, "err": 0, "handoff": 0}
+{"t": "23:42", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 2150, "tok": 802, "err": 0, "handoff": 0}
+{"t": "23:44", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1766, "tok": 1375, "err": 0, "handoff": 0}
+{"t": "23:46", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1088, "tok": 967, "err": 0, "handoff": 0}
+{"t": "23:48", "ask": "Has A-1003 been delivered?", "reply": "Yes, order A-1003 shows as delivered.", "ms": 2025, "tok": 1407, "err": 0, "handoff": 0}
+{"t": "23:50", "ask": "Where is order A-1001?", "reply": "I am passing this to a person on the support team.", "ms": 1810, "tok": 1028, "err": 0, "handoff": 1}
+{"t": "23:52", "ask": "Where is order A-1001?", "reply": "Order A-1001 shipped on October 27 and is on its way.", "ms": 2297, "tok": 1087, "err": 0, "handoff": 0}
+{"t": "23:54", "ask": "Where is order A-1005?", "reply": "Order A-1005 shipped on October 29 and is on its way.", "ms": 1677, "tok": 844, "err": 0, "handoff": 0}
+{"t": "23:56", "ask": "When will my bearing kit arrive?", "reply": "Order A-1002 is processing and should ship within two days.", "ms": 1670, "tok": 1482, "err": 0, "handoff": 0}
+{"t": "23:58", "ask": "How do I return a hose clamp?", "reply": "Start a return on the orders page within 30 days.", "ms": 1364, "tok": 1056, "err": 0, "handoff": 0}

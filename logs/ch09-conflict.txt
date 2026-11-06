@@ -1,0 +1,4 @@
+billing and shipping read A-1003 remedy: none (v0)
+shipping writes replace: ok, v1
+billing writes refund: refused: billing read v0, record is v1
+billing rereads: replace (v1); no refund is sent

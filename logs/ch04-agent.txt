@@ -1,0 +1,19 @@
+   task   A-1003 came with a cracked fitting. Refund it.
+ 1 model  tokens=497  (no text)
+ 1 call   get_order({"order_id": "A-1003"})
+ 1 result {"id": "A-1003", "customer": "Priya Nair", "items": [{"sku"...
+ 2 model  tokens=652  Refunding one fitting.
+ 2 call   issue_refund({"order_id": "A-1003", "amount": "12.65", "rea...
+ 2 result {"error": "issue_refund was not run: bad arguments", "fix":...
+ 3 model  tokens=755  Amount as a number.
+ 3 call   issue_refund({"order_id": "A-1003", "amount": 12.65, "reaso...
+ 3 result {"refunded": 12.65, "order_id": "A-1003", "reason": "damage...
+ 4 model  tokens=828  Refunded $12.65 for the cracked fitting.
+   stop   done  steps=4  tokens=2732
+error: issue_refund was not run: bad arguments
+fix: Send amount as a number, not "12.65".
+  0.00s  issue_refund refused: bad arguments
+  2.00s  issue_refund try 1: no reply in 2.0s
+  2.00s  issue_refund wait 0.32s (random, up to 1.00s)
+  2.62s  issue_refund try 2: ok
+payouts: 1

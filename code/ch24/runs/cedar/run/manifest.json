@@ -1,0 +1,92 @@
+[
+  {
+    "chapter": 17,
+    "file": "baseline.json",
+    "sha256": "b6e168b48b5f"
+  },
+  {
+    "chapter": 18,
+    "file": "policy.json",
+    "sha256": "577b1271d782"
+  },
+  {
+    "chapter": 16,
+    "file": "bundle.json",
+    "sha256": "7c93878f9408"
+  },
+  {
+    "chapter": 12,
+    "file": "eval-gate.txt",
+    "sha256": "0c0c3939bc49"
+  },
+  {
+    "chapter": 13,
+    "file": "review.json",
+    "sha256": "5009df58b729"
+  },
+  {
+    "chapter": 22,
+    "file": "obligations.txt",
+    "sha256": "1309e7c0f6eb"
+  },
+  {
+    "chapter": 20,
+    "file": "pilot.json",
+    "sha256": "6777f72e5ead"
+  },
+  {
+    "chapter": 20,
+    "file": "decision.json",
+    "sha256": "d7493d9888a9"
+  },
+  {
+    "chapter": 23,
+    "file": "business-case.md",
+    "sha256": "46567011f9de"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/README.md",
+    "sha256": "553257d0a46f"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/alerts.md",
+    "sha256": "863fdef8c0f2"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/contacts.md",
+    "sha256": "e46ca7014b0c"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/data-map.md",
+    "sha256": "ea7edd7a360d"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/evals.md",
+    "sha256": "eca956798bcb"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/owners.md",
+    "sha256": "2a7107694982"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/rollback.md",
+    "sha256": "d813ba2520aa"
+  },
+  {
+    "chapter": 21,
+    "file": "handover/runbook.md",
+    "sha256": "4388c6ae2453"
+  },
+  {
+    "chapter": 24,
+    "file": "gates.txt",
+    "sha256": "dcbc6c646019"
+  }
+]

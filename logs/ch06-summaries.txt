@@ -1,0 +1,8 @@
+round 1: 6 turns -> 3
+  summary: Shopper reported bent clamps on A-1001; a refund was filed.
+  missing from summary: 2026-10-29, R-A-1001, $15.90
+  Pinned: A-1001, 2026-10-29, R-A-1001, $15.90
+round 2: 5 turns -> 3
+  summary: Shopper had an order problem and was offered a refund.
+  missing from summary: A-1001, 2026-10-29, R-A-1001, $15.90
+  Pinned: A-1001, 2026-10-29, R-A-1001, $15.90

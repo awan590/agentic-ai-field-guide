@@ -1,0 +1,7 @@
+cases 60, seeds 5
+released   [44, 41, 42, 45, 46]  mean 43.6
+candidate  [48, 45, 46, 49, 50]  mean 47.6
+change +4.0 cases, noise band 4.1
+  agrees-wrong    14 -> 19
+  refund-promise  25 -> 25
+GATE PASS

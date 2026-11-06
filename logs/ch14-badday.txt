@@ -1,0 +1,22 @@
+bad_day.jsonl: 720 conversations, synthetic
+time = 60 simulated minutes before it; base = normal day
+time   errors  p95 s  tokens  handoffs   tone
+base     1.5%    3.7    1197      7.8%   0.3%
+02:00    0.0%    3.3    1119      0.0%   0.0%
+04:00    0.0%    2.8    1173      6.7%   0.0%
+06:00    3.3%    2.9    1141      0.0%   0.0%
+08:00    0.0%    3.5    1243      6.7%   0.0%
+10:00    3.3%    3.0    1107      3.3%   0.0%
+12:00    0.0%    3.8    1129     10.0%   0.0%
+14:00    0.0%    4.1    1234     10.0%   0.0%
+16:00    0.0%    4.0    1242      6.7%  13.3%
+18:00    3.3%    3.6    1208     16.7%   6.7%
+20:00    0.0%    3.6    1325     20.0%  30.0%
+22:00    0.0%    3.4    1290     26.7%  16.7%
+24:00    0.0%    3.4    1213     20.0%   6.7%
+mark 14:00  release with a new prompt (synthetic)
+mark 18:00  a shopper posts screenshots (synthetic)
+alerts:
+  18:20  fire    ticket handoff drift  26.7%
+  22:50  resolve ticket handoff drift  10.0%
+  24:00  fire    ticket handoff drift  20.0%

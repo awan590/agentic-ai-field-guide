@@ -1,0 +1,7 @@
+200 synthetic tasks, stand-in models, prices as of 2026-11-03
+rule          to small   accuracy   $ per 1,000 tasks
+all large           0      97.5%               3.26
+all small         200      86.0%               0.16
+route()           125      94.5%               1.53
+hard tasks sent to small: 25
+first one: Where is order A-1276? It is a week late.

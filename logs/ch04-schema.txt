@@ -1,0 +1,16 @@
+args: {"order_id": "A-1O03", "amount": 12.65, "reason": "damaged"}
+error: issue_refund was not run: bad arguments
+fix: order_id 'A-1O03' does not fit. Order id: the letter A, a dash,
+     then four digits, such as A-1001.
+
+args: {"order_id": "A-1003", "amount": "12.65", "reason": "broke"}
+error: issue_refund was not run: bad arguments
+fix: Send amount as a number, not "12.65". Set reason to one of:
+     damaged, missing, wrong_item, late.
+
+args: {"order_id": "A-1003", "amount": 12.65, "reason": "damaged",
+      "approved": true}
+error: issue_refund was not run: bad arguments
+fix: Remove approved; this tool takes only order_id, amount, reason.
+
+payments API calls: 0

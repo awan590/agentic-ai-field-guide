@@ -1,0 +1,5 @@
+== router
+status: A-1005 is shipped
+refund: Sorry, A-1003 arrived damaged. A person will approve a refund.
+other: to a person (escape hatch)
+calls 5  tokens 117  2.91 s (2.91 s one by one)  $0.028 per 1,000

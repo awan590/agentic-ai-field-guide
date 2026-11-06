@@ -1,0 +1,37 @@
+Table obligations-2026-11, read 2026-11-04; as of 2024-12-20.
+Agent returns-helper for Example Supply (invented), tier transparency.
+Regions: EU
+A working checklist to bring to counsel, not legal advice.
+
+IN FORCE (law that applies now)
+  EU-GDPR30   2018-05-25  controller: privacy lead  S1111
+              Keep a record of processing activities
+  EU-GDPR33   2018-05-25  controller: privacy lead  S1111
+              Report a breach within 72 hours where feasible
+
+COMING (dated, not yet applicable)
+  EU-ART50    2026-08-02  provider: tech lead  S932, S1110
+              Tell people they are interacting with an AI system
+
+GUIDANCE (no binding duty on file)
+  EU-DPIA     2024-12-17  controller: privacy lead  S1393, S1111
+              EDPB: DPIAs matter for AI models (GDPR Article 35)
+  EU-EDPB     2024-12-17  any: governance lead  S1393
+              EDPB: a model's anonymity is judged case by case
+  EU-DPF      2023-07-10  any: governance lead  S1394, S1444
+              Data may flow to US firms in the EU-US framework
+
+CHECK WITH COUNSEL
+  EU-ART50    Commission date for the Act, with exceptions; ask counsel
+  EU-GDPR30   Firms under 250 staff: narrow exception, ask counsel
+  EU-DPIA     Art. 35(1): assess before high-risk use; ask counsel
+  EU-EDPB     Opinion 28/2024 is guidance; ask counsel
+  EU-DPF      Only for firms that joined it; ask counsel
+
+GAPS
+  (none)
+
+STALE (read over 90 days before 2024-12-20)
+  (none)
+
+Skipped 14 of 20 rules: other region 9, other role 1, other tier 4.

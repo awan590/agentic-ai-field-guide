@@ -1,0 +1,8 @@
+bundle 1748edfe6380
+  model   stand-in-1
+  tools   get_order, search_policy
+  policy  support role, 6 tools, call cap 6
+  prompt  6 lines
+same four parts again:  1748edfe6380
+one prompt line added:  dd6499fae417
+model name changed:     5ccedabe9a51

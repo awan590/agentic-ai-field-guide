@@ -1,0 +1,52 @@
+[
+  {
+    "chapter": 17,
+    "file": "baseline.json",
+    "sha256": "46fa0fb0c990"
+  },
+  {
+    "chapter": 18,
+    "file": "policy.json",
+    "sha256": "577b1271d782"
+  },
+  {
+    "chapter": 16,
+    "file": "bundle.json",
+    "sha256": "7c93878f9408"
+  },
+  {
+    "chapter": 12,
+    "file": "eval-gate.txt",
+    "sha256": "0c0c3939bc49"
+  },
+  {
+    "chapter": 13,
+    "file": "review.json",
+    "sha256": "10aa2f3e35a1"
+  },
+  {
+    "chapter": 22,
+    "file": "obligations.txt",
+    "sha256": "c337a2bd654f"
+  },
+  {
+    "chapter": 20,
+    "file": "pilot.json",
+    "sha256": "66757789a366"
+  },
+  {
+    "chapter": 20,
+    "file": "decision.json",
+    "sha256": "274301b9824f"
+  },
+  {
+    "chapter": 23,
+    "file": "business-case.md",
+    "sha256": "bdef63a4d4cd"
+  },
+  {
+    "chapter": 24,
+    "file": "gates.txt",
+    "sha256": "01f0511d98f4"
+  }
+]

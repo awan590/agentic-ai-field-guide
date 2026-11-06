@@ -1,0 +1,5 @@
+Full-time equivalents, returns desk (synthetic, 160 hours a month)
+count                                hours    FTE
+every ticket the agent touched       416.7   2.60
+minus tickets handed to a person     330.6   2.07
+pilot minus control, after review     65.9   0.41

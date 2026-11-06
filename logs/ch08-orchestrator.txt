@@ -1,0 +1,4 @@
+== orchestrator
+plan: ["Order A-1003 came cracked", "A-1005 has not arrived"]
+answer: A-1003 is delivered; A-1005 is shipped.
+calls 4  tokens 96  1.83 s (2.39 s one by one)  $0.025 per 1,000

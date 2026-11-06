@@ -1,0 +1,8 @@
+   task   Have orders A-1001 and A-1002 shipped?
+ 1 model  tokens=130  Looking up both orders.
+ 1 call   get_order({"order_id": "A-1001"})
+ 1 result {"id": "A-1001", "customer": "Lena Ortiz", "items": [{"sku"...
+ 1 call   get_order({"order_id": "A-1002"})
+ 1 result {"id": "A-1002", "customer": "Omar Haddad", "items": [{"sku...
+ 2 model  tokens=326  A-1001 shipped. A-1002 is still processing.
+   stop   done  steps=2  tokens=456

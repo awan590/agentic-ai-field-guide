@@ -1,0 +1,7 @@
+Readout: week1 (synthetic tickets)
+tickets  pilot 313, control 327
+metric            pilot  control    lift  95% interval
+handle minutes     8.26     9.17   -0.91  -1.41 to -0.39
+reopened %         7.03     9.48   -2.45  -6.84 to +1.66
+wrong refund %     0.32     0.61   -0.29  -1.52 to +0.65
+handoff %         21.41  (pilot only)

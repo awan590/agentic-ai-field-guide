@@ -1,0 +1,4 @@
+== parallel
+sections: policy ok, tone ok
+vote: yes (answers: yes, no, yes)
+calls 5  tokens 112  1.04 s (2.60 s one by one)  $0.015 per 1,000

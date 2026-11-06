@@ -1,0 +1,16 @@
+Synthetic ratings, returns desk (1 low, 3 high)
+kind    name              harm undo volume score tier
+action  get_order            1    1      3     3    1
+action  search_policy        1    1      3     3    1
+action  read_message         1    1      3     3    1
+action  send_email           1    3      3     9    2
+action  cancel_order         2    2      1     4    2
+action  issue_refund         3    3      2    18    3
+action  export_customers     3    3      1     9    3
+data    policy pages         1    1      3     3    1
+data    order status         1    3      3     9    2
+data    shopper email        1    3      3     9    2
+data    card number          3    3      1     9    3
+data in tier 1: any reply
+data in tier 2: its owner only
+data in tier 3: never in a reply or a log

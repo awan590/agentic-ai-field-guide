@@ -1,0 +1,13 @@
+   task   Has order A-1002 shipped?
+ 1 model  tokens=91  (no text)
+ 1 call   get_order({"order_id": "A-1002"})
+ 1 result {"error": "timeout: get_order over 5 s"}
+ 2 model  tokens=161  (no text)
+ 2 call   get_order({"order_id": "A-1002"})
+ 2 result {"error": "timeout: get_order over 5 s"}
+ 3 model  tokens=231  (no text)
+ 3 call   get_order({"order_id": "A-1002"})
+ 3 result {"error": "timeout: get_order over 5 s"}
+   stop   time cap  steps=3  tokens=483
+simulated seconds: 33
+handoff to person: time cap

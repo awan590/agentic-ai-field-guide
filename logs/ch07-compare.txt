@@ -1,0 +1,5 @@
+search           recall@1 recall@5    MRR  words
+keyword             0.525    0.850  0.639    163
+vector              0.675    0.850  0.751    178
+hybrid              0.550    0.800  0.664    179
+hybrid + rerank     0.625    0.900  0.726    187

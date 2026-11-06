@@ -1,0 +1,14 @@
+{
+  "agent": "returns-helper",
+  "customer": "Example Supply (invented)",
+  "job": "Drafts replies to shoppers about returns; a person approves every refund.",
+  "tier": "transparency",
+  "regions": ["EU", "UK", "US", "US-CO", "AE", "SA", "SG", "JP"],
+  "roles": {
+    "provider": "tech lead",
+    "deployer": "returns lead",
+    "controller": "privacy lead",
+    "any": "governance lead"
+  },
+  "synthetic": true
+}

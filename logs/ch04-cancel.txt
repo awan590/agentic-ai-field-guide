@@ -1,0 +1,5 @@
+person sees: cancel A-1007 for Ana Lima, $24.99
+person: yes
+call 1: {"canceled": "A-1007"}
+call 2: {"canceled": "A-1007", "replayed": true}
+A-1007 is canceled; cancels run: 1

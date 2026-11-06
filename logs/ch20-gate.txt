@@ -1,0 +1,8 @@
+Gate: week1 + week2 (synthetic tickets)
+rule                 kind  limit      value  result
+tickets per group    must  >= 600       639  PASS
+wrong refund %       must  <= 1        0.47  PASS
+reopened lift, high  must  <= 3       -0.45  PASS
+minutes lift, high   core  <= -1      -1.24  PASS
+handoff %            core  <= 30      20.66  PASS
+GO: SCALE (every rule passed)

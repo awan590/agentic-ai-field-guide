@@ -1,0 +1,36 @@
+# Value hypothesis: Example Supply returns desk
+(synthetic numbers)
+
+## Problem
+The desk spends 96.2 hours a week on 640 tickets. 453 a week are
+refund status, return label, and policy question tickets: look-ups and
+replies that a draft could speed up.
+
+## Baseline
+- Tickets per week: 640
+- Mean handle minutes: 9.0
+- Error rate: 8.6%
+- Candidate tickets per week: 453
+- Candidate hours per week: 52.5
+Source: ch17/tickets.csv, 2 weeks, read by ch17/baseline.py.
+
+## Hypothesis
+If the agent drafts replies to refund status, return label, and policy
+question tickets, and a person sends each one, handle time on those
+tickets falls by 2.0 minutes or more. That frees about 15.1 desk hours
+a week.
+
+## Measure
+Handle minutes and errors per ticket from the ticket log, pilot
+against control in the same two weeks.
+
+## Stop if
+- The pilot saves under 1.0 minute per candidate ticket.
+- The error rate rises above 8.6%.
+- The agent pays a refund with no approval.
+
+## Sign-off
+Sponsor (head of customer service):
+Returns desk lead:
+FDE:
+Date:

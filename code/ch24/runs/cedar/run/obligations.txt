@@ -1,0 +1,29 @@
+Table obligations-2026-11, read 2026-11-04; as of 2026-11-04.
+Agent returns-helper for Cedar Hardware Co. (invented), tier transparency.
+Regions: UK, US, US-CO
+A working checklist to bring to counsel, not legal advice.
+
+IN FORCE (law that applies now)
+  (none)
+
+COMING (dated, not yet applicable)
+  (none)
+
+GUIDANCE (no binding duty on file)
+  UK-PRINC    2023-03-29  any: head of stores  S936, S947
+              Five principles, applied by existing regulators
+  US-RMF      2023-01-26  any: head of stores  S934
+              NIST AI RMF 1.0, a risk framework for voluntary use
+  US-GENAI    2024-07-26  any: head of stores  S934, S935
+              NIST AI 600-1, the Generative AI Profile
+
+CHECK WITH COUNSEL
+  UK-PRINC    From the previous government; check the current page
+
+GAPS
+  (none)
+
+STALE (read over 90 days before 2026-11-04)
+  (none)
+
+Skipped 17 of 20 rules: other region 14, other tier 3.

@@ -1,0 +1,17 @@
+Changed seq 5: verdict ASK to ALLOW, approver removed.
+seq  time   tool              verdict approver              hash
+  0  09:00  start             -       -                     0433f713d131
+  1  09:01  get_order         ALLOW   -                     f279ab05a560
+  2  09:02  get_order         BLOCK   -                     1886e1dac66a
+  3  09:03  send_email        ALLOW   -                     744f4e515ab1
+  4  09:04  send_email        BLOCK   -                     fbbe017316b0
+  5  09:05  issue_refund      ALLOW   -                     8344e5fd7dd6
+  6  09:06  export_customers  BLOCK   -                     80a7f3c22d5b
+Chain broken at seq 5: it no longer matches its hash.
+
+Which system acted?  returns-helper, release 1748edfe6380
+Whose data?          p***@mail.test (masked in every record)
+Who approved money?  no approval on file
+What was refused?    seq 2, 4, 6, each with why
+Which rules applied? EU-ART50, EU-GDPR30, EU-GDPR33
+Was it changed?      yes; the chain breaks at seq 5

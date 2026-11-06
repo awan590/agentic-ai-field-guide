@@ -1,0 +1,17 @@
+as of 2026-11-04, days: content 30, trace 90, eval 365, incident 730
+r01  content  2026-10-28    7  keep
+r02  content  2026-09-20   45  age
+r03  trace    2026-10-01   34  keep
+r04  trace    2026-07-15  112  age
+r05  eval     2026-03-02  247  keep
+r06  eval     2025-08-10  451  age
+r07  incident 2025-06-02  520  keep
+r08  incident 2024-09-30  765  hold
+r09  content  2026-11-01    3  request
+r10  trace    2026-10-20   15  request
+r11  trace    2026-10-30    5  keep
+r12  content  2026-08-01   95  age
+r13  debug    2026-11-02    2  no rule
+r14  trace    2026-08-06   90  keep
+kept 7 of 14: keep 6, hold 1
+left out 7: age 4, request 2, no rule 1

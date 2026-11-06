@@ -1,0 +1,13 @@
+search           recall@3 recall@5 recall@20
+keyword             0.700    0.850     0.900
+vector              0.800    0.850     0.950
+hybrid              0.775    0.800     1.000
+hybrid + rerank     0.825    0.900     1.000
+crossed rank 5 (- means not in the top 20):
+  question                        keyword hybrid + rerank
+  how long do i have to send stuf       3              11
+  can i return grease if the tin       14               2
+  I opened the bearing kit, can I       1               9
+  how long does delivery take           7               3
+  my v-belt wore out, is that cov       -               1
+  can i add another item to my or       -               4

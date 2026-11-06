@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-11-04",
+  "synthetic": true,
+  "currency": "USD",
+  "note": "Invented numbers for the Example Supply returns agent. Replace each with the customer's figure and write its source beside it.",
+  "desk": {"cost_per_hour": 38.0, "fte_hours_month": 160},
+  "errors": {"wrong_refund_cost": 45.0, "error_scale": 1.0},
+  "agent": {
+    "model": "claude-sonnet-5-5",
+    "review_share": 0.05,
+    "review_minutes": 3.0,
+    "ramp": [0.5, 0.8]
+  },
+  "build": {
+    "engagement_fee": 14000,
+    "security_review": 1500,
+    "desk_training": 1140
+  },
+  "run_month": {
+    "hosting_and_tools": 250,
+    "engineer_hours": 10,
+    "engineer_rate": 90
+  },
+  "horizon_months": 36,
+  "ranges": {
+    "run_month": [0.5, 2.0],
+    "tickets_month": [1.25, 0.75],
+    "build": [0.75, 1.5],
+    "cost_per_hour": [1.2, 0.8],
+    "model_per_task": [1.0, 10.0]
+  }
+}

@@ -1,0 +1,12 @@
+Adoption, synthetic log (seed 21), 18 trained desk staff
+Active means: opened a draft (loose)
+week  eligible  holdout  active  WAU %  goal  share %  goal  result
+   1       618       22   18/18    100    50       31    20  PASS
+   2       608       32   18/18    100    60       46    35  PASS
+   3       612       28   18/18    100    70       72    45  PASS
+   4       600       40   18/18    100    80       80    55  PASS
+   5       640        0   18/18    100    80       82    60  PASS
+   6       640        0   18/18    100    80       85    60  PASS
+   7       640        0   18/18    100    80       82    60  PASS
+   8       640        0   18/18    100    80       82    60  PASS
+No draft sent in weeks 7-8: S06, S14, S17

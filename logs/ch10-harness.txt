@@ -1,0 +1,21 @@
+rules: AGENTS.md (42 lines)
+sandbox  throwaway copy of sample_repo
+test     FAILED (failures=1)
+         FAIL: test_damaged_item_gets_full_refund_even_if_opened
+plan     drop the restocking fee
+edit     refunds.py
+test     FAILED (failures=1)
+         FAIL: test_opened_item_pays_restocking_fee
+revert   refunds.py
+plan     skip the fee when the item is damaged
+edit     refunds.py
+test     OK
+diff     --- a/refunds.py
+         +++ b/refunds.py
+         @@ -7,3 +7,3 @@
+              """Cents to give back for one returned item."""
+         -    if opened:
+         +    if opened and not damaged:
+                  return price - price * RESTOCK_PERCENT // 100
+result: fixed after 2 tries (cap 3)
+original sample_repo unchanged: yes

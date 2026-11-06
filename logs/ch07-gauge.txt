@@ -1,0 +1,21 @@
+query: warranty on a pressure gauge?
+keyword
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  care#3      PG-010 gauge against a known reference once a year. A
+  warranty#1  Warranty Warranty period Parts carry a 12 month warranty
+vector
+  warranty#1  Warranty Warranty period Parts carry a 12 month warranty
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  care#2      Over-tightening cuts into the hose and voids the
+hybrid
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  warranty#1  Warranty Warranty period Parts carry a 12 month warranty
+  care#2      Over-tightening cuts into the hose and voids the
+hybrid + rerank
+  pg-010#1    Pressure gauge, 0-10 bar About this part Part number
+  pg-016#1    Pressure gauge, 0-16 bar About this part Part number
+  warranty#1  Warranty Warranty period Parts carry a 12 month warranty
+  care#2      Over-tightening cuts into the hose and voids the

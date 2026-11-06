@@ -1,0 +1,7 @@
+setting  verdict  what happens
+OFF      BLOCK    not this agent's job
+DRAFT    BLOCK    the agent drafts, the owner acts
+ASK      ASK      the owner approves first
+NOTIFY   ALLOW    runs, then the owner is told
+AUTO     ALLOW    runs and is logged
+ceilings: tier 1 AUTO, tier 2 NOTIFY, tier 3 ASK
